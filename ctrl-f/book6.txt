@@ -1,0 +1,4545 @@
+﻿The Project Gutenberg EBook of A Book on Vegetable Dyes, by Ethel Mairet
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Book on Vegetable Dyes
+
+Author: Ethel Mairet
+
+Release Date: September 30, 2015 [EBook #50079]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A BOOK ON VEGETABLE DYES ***
+
+
+
+
+Produced by Melissa McDaniel and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+Transcriber's Note:
+
+  Inconsistent hyphenation and spelling in the original document have
+  been preserved. Obvious typographical errors have been corrected.
+
+  Italic text is denoted by _underscores_ and bold text by =equal
+  signs=.
+
+  D'Appligny was changed to D'Apligny.
+
+  Gallium was changed to Galium.
+
+  Page 132: a "Note" was anchored, and added to the footnote sequence.
+
+  Inconsistent punctuation and capitalization of lists, chapter headings,
+  and footnotes was retained.
+
+  The listed Errata were corrected.
+
+
+
+
+     A BOOK ON
+     VEGETABLE
+     DYES
+
+     BY
+     ETHEL M. MAIRET
+
+     A.D. 1916
+
+     PUBLISHED BY DOUGLAS PEPLER
+     AT THE HAMPSHIRE HOUSE
+     WORKSHOPS HAMMERSMITH W
+
+     Price 5s. net.
+
+
+
+
+     _PRINTED by DOUGLAS PEPLER
+     at
+     DITCHLING in the COUNTY of SUSSEX
+     & PUBLISHED BY HIM AT
+     THE HAMPSHIRE HOUSE WORKSHOPS
+     HAMMERSMITH
+     ON S. JOHN THE BAPTIST'S DAY
+     A.D. MDCCCCXVI_
+
+
+
+
+PUBLISHER'S NOTE
+
+     IN PRINCIPIO ERAT VERBUM
+     ET VERBUM ERAT APUD DEUM
+     ET DEUS ERAT VERBUM.
+     _Sc. Joannem_ 1.1.
+
+     VIDITQUE DEUS CUNCTA QUÃ
+     FECERAT: ET ERANT VALDE BONA.
+     _Genesis._ 1.31.
+
+
+MAN uses these good things, and when MAN first discovers how to make
+anything, that thing which he makes is good.
+
+For example: this book is printed upon one of the first iron presses
+to be made in this country. The press is a good press; it would be
+difficult to make a press which would enable the printer to print more
+clearly. The wooden press was a good press & the printing from it has
+not been surpassed.
+
+Further, this quality of goodness of a first discovery may persist for
+many years.
+
+But there is a tendency to avoid _Quality Street_. We are choosing
+rather _Quantity Street_ & the Bye paths of _Facility & Cleverness_;
+we have become accustomed to the hum of the _Time & Labour saving_
+machinery; and we are in danger of forgetting the use of good things:
+indeed the tradition & practice of goodness has been lost in a
+considerable number of trades.
+
+For instance: a carpenter has become so used to buying his timber in
+planks from a yard that he has nearly forgotten its relation to the
+tree. The man who works to designs conceived by somebody else with
+wood sawn by another man's machine must be deprived of the natural
+strength of the tree.
+
+And this is not an exception to, but an example of, the way we are
+choosing to do things.
+
+It is impossible to buy linen as good as that normally used by every
+tradesman in the XVIII century. It is nearly impossible to get cloth,
+paper, bread, beer, bacon and leather equal to that in common use 150
+years ago.
+
+IN VIEW OF THE BEGINNING it is desirable to record what still survives
+of the traditions of making good things; and I shall endeavour to
+publish the instructions & advice of men & women who still follow
+these good traditions.
+
+     Douglas Pepler.
+
+
+
+
+CONTENTS
+
+
+                                            PAGE
+     I.    INTRODUCTION                        1
+     II.   WOOL, SILK, COTTON AND LINEN       11
+     III.  MORDANTS                           24
+     IV.   BRITISH DYE PLANTS                 37
+     V.    THE LICHEN DYES                    45
+     VI.   BLUE                               63
+     VII.  RED                                87
+     VIII. YELLOW                            107
+     IX.   BROWN AND BLACK                   122
+     X.    GREEN                             133
+
+
+
+
+CHAPTER I.
+
+
+Dyeing has almost ceased to exist as a traditional art. In this 20th
+century the importance of colour in our lives seems to be realized
+less and less. It has been forgotten that strong and beautiful colour,
+such as used to abound in all every day things, is an essential to the
+full joy of life. A sort of fear or nervousness of bright colour is
+one of the features of our age, it is especially evident in the things
+we wear.
+
+There is unfortunately good reason for it. We fear bright colour
+because our modern colours are bad, and they are bad because the
+tradition of dyeing has been broken. The chemist has invaded the
+domain of the dyer, driven him out and taken over his business, with
+the result that ugly colour has become the rule for the first time in
+the history of mankind. It is not that chemists never produce
+beautiful colour. Dyeing as a chemical science has not been studied
+for the last 50 years without producing good results. But there is
+this great difference between the chemical commercial dyes and the
+traditional dyes--that with the commercial dyes it is very easy to
+produce ugly colours, the beautiful colour is rare; but with
+traditional dyes it is difficult to make an ugly colour, and good
+colour is the rule.
+
+It was in 1856 that mauve was produced from coal tar by an English
+chemist, and this began a new era in dyeing. The discovery was
+developed in Germany, and the result was the creation of a science of
+chemical colouring.
+
+The advantages of the new colours were ease and simplicity of use,
+general reliability with regard to strength and composition, and
+certainty in reproducing the same colour again without trouble. With
+regard to fastness, to light and to washing there is practically
+little difference between the two. It is more the method by which they
+are dyed and not the dye itself (although of course in some cases
+this is not so) that determines their fastness. The natural dyes are
+more trouble and take longer time to prepare. Chemical colours can be
+dyed now as fast as the natural colours, although at first this could
+not be done. Some of the chemical colours as well as the natural, are
+not fast to light and washing, and ought never to be used; but there
+are natural colours, such as madder, some of the lichens, catechu
+etc., which are as fast as any chemical dye, if not more so. BUT there
+is this general difference between the results of the two
+methods,--that when a chemical colour fades it becomes a different
+colour and generally a bad one: when a natural colour fades, it
+becomes a lighter tone of the same colour.
+
+Since the middle of the 19th century our colour sense has been getting
+rude shocks. At first came the hideous aniline colours, crude and
+ugly, and people said, "How wonderful, are they really made out of
+coal!" They were told to like them and they did, and admired the
+chemists who made them. Then came more discoveries, and colour began
+to go to the opposite extreme, and the fashion was muddy
+indeterminate colours--'art' colours as they were called, just as
+remote from pure good colouring in one direction as the early aniline
+colours were in the other. We are now emerging from the mud colours,
+as I would call them, to the period of the brilliant colouring of the
+Futurist. Here we have scientific colouring used with real skill. The
+Futurist has perhaps indicated a possible way in which chemical
+colours may be used by the artist and is teaching people the value of
+simple combinations of brilliant colour.
+
+And yet do they satisfy the artist? Are they as beautiful as the
+colours in a Persian Khelim? Is there a blue in the world as fine as
+the blue in a Bokhara rug, or a red to touch the red of a Persian
+brocade or Indian silk?--the new fresh colours as they come out of the
+dyer's vat, not as they are after years of wear and tear, though that
+is beautiful enough. And yet they are not more beautiful than the
+colours once made by dyers in England. They are as brilliant as the
+chemical colours, but they are not hard and unsympathetic and
+correct. They are alive and varied, holding the light as no chemical
+colour can hold it; and they are beautiful from their birth to their
+old age, when they mellow, one with the other, into a blend of
+richness that has never yet been got by the chemical dyer and never
+will be.
+
+Perhaps it is the scientific method that kills the imagination.
+Dealing with exactly known quantities, and striving for precise
+uniformity, the chemist has no use for the accidents and
+irregularities which the artist's imagination seizes and which the
+traditional worker well knew how to use.
+
+William Morris says that "all degradation of art veils itself in the
+semblance of an intellectual advance," and nothing is truer than this
+with regard to the art of dyeing. As a tradition it is practically
+dead in Britain, and is threatened with gradual extinction all over
+the world. It will not recover itself as an art till individual
+artists set themselves to make beautiful colours again, and ignore the
+colour made for them by commerce and the chemists.
+
+Handicraft workers should make their own colours. Leather workers
+should dye their own leather, the embroiderers their own silks and
+wools, the basket makers their own materials, the weavers and spinners
+their own flax, cotton and wool; and until they do this the best work
+will not be done. This is the necessity for the present. _If any craft
+worker wants sound colour he must make it for himself, he cannot get
+it done for him by artists._ The hope for the future is that dyeing
+may be reinstated as a craft, co-operating with the other crafts and
+practiced by craftsmen.
+
+The way to beauty is not by the broad and easy road; it is along
+difficult and adventurous paths. Every piece of craft work should be
+an adventure. It cannot be an adventure if commerce steps in and says
+"I will dye all your yarn for you; you will always then be able to
+match your colour again; there need be no variation; every skein shall
+be as all the others; you can order so many pounds of such a number
+and you can get it by return of post; and you can have six or seven
+hundred shades to choose from." It is all so easy, so temptingly
+easy,--but how DULL! the deadly yards of stuff all so even and so
+exactly dyed; so perfect that the commerce-ridden person says, "this
+is almost as good as the stuff you can buy in a shop, it is as perfect
+as machine made stuff."
+
+What would have been the use of all this to the great colourists of
+the world, the ancient Egyptians, the mediÃ¦val Italians or the great
+Oriental dyers? They could not get six hundred shades to order; six
+was more like their range, they did not need more, and in those they
+could not command precise uniformity. They knew that the slight
+variations caused by natural human methods add to the beauty and
+interest of a thing, and that a few good colours are worth any number
+of indifferent ones.
+
+It is quite certain that a great many of the handicrafts that have
+depended upon commercial dyes would produce _infinitely better work_
+if they dyed their raw material themselves.
+
+It may be objected that life is not long enough; but the handicrafts
+are out to create more life, not out to produce quantity nor to save
+time.
+
+The aim of commerce is material gain; the aim of the crafts is to make
+life, and no trouble must be spared to reach that end. It must always
+be before the craft worker. Dyeing is an art; the moment science
+dominates it, it is an art no longer, and the craftsman must go back
+to the time before science touched it, and begin all over again.
+
+The tradition is nearly lost in England.
+
+It lingers in a few places in Scotland and Ireland. In Norway, Russia,
+Central Asia, India and other places where science has not entered too
+much into the life of the people, it is still practiced. Is dyeing as
+a tradition to be doomed, as traditional weaving was doomed? Yes,
+unless it be consciously studied again and remade into an art.
+
+This book is intended for the use of craftsmen and others who are
+trying to dye their materials by hand and on a small scale.
+Information and recipes, useful to such workers, are to be found in
+books and pamphlets dating onwards from the 17th century, and in this
+book I have drawn largely upon these sources of dyeing knowledge, as
+well as upon the traditions still followed by present workers, and
+upon the experience of my own work.
+
+All dyeing recipes, however, should guide rather than rule the worker;
+they are better applied with imagination and experience than with the
+slavishness of minute imitation. Every dyer should keep a record of
+his experiments, for this will become invaluable as it grows, and as
+one thing is learnt from another. The ideal way of working is not by a
+too rigid accuracy nor by loose guess-work, but by the way which
+practice has proved best: nevertheless, some of the greatest dyers
+have done their work by rule-of-thumb methods just as others have
+certainly worked with systematic exactness.
+
+The dyer, like any other artist, is free to find his own methods,
+subject to the requirements of good and permanent craftsmanship,
+provided that he achieves the effects at which he aims. But it is
+supremely important that he should aim at the right effects; or,
+rather, at the use of the right materials, for if these are right the
+effects may safely be left to take care of themselves. In order to
+develop the taste and temperament of a good colourist, it is necessary
+to use good colour and to live with good colour. In this book I
+attempt to show where good colour can be obtained. But one may begin
+to live with good colour which has been found by others.
+
+This part of the dyer's education is not prohibitively costly, even in
+these days of inferior colour. Indian and Persian embroideries are
+still to be obtained, though care must be taken in their selection, as
+most modern pieces are dyed with chemical dyes and are very ugly.
+Persian Khelim rugs are cheap and often of the most beautiful colours.
+Russian embroideries and woven stuffs, both old and new, are
+obtainable, and are good in colour, as are most of the embroideries
+and weavings of Eastern Europe and the East. What are popularly known
+as "coffee towels" are often embroidered in the finest coloured silks.
+Bokhara rugs and embroideries are still to be purchased, and many of
+the weavings of the far East, although, alas, very few of the modern
+ones are of good colour. I would say to dyers, do not be satisfied
+with seeing beautiful coloured stuffs in museums. It is possible still
+to get them, and to live with a piece of good colour is of much more
+use than occasional hours spent in museums.
+
+
+
+
+CHAPTER II.
+
+WOOL SILK COTTON LINEN
+
+     Various kinds of wool. Wool from goats. Fleeces. Wool
+     dyeing. Scouring of wool. Silk, preparation for dyeing.
+     Cotton, cleansing and galling of. Indian methods of
+     preparing cotton and linen for dyeing. BANCROFT on the
+     preparing of cotton and linen for dyeing. Linen. On water
+     for dyeing.
+
+
+ON WOOL.--The quality of wool varies considerably. British wools are
+of various kinds:--
+
+_Highland, Welsh and Irish_ wools are from small sheep, not far
+removed from the wild state, with irregular short stapled fleeces.
+
+_Forest or Mountain sheep_ (Herdwick, Exmoor, Blackfaced, Limestone,
+Cheviot) have better wool, especially the Cheviot which is very thick
+& good for milling.
+
+_Ancient Upland_, such as South Down, are smaller sheep than the last
+named, but the wool is softer and finer.
+
+_Long Woolled sheep_ (Lincolns, Leicester) with long staple wool
+(record length, 36 in.) and the fleeces weighing up to 12Â lbs. The
+Leicester fleece is softer, finer and better than the Lincoln.
+
+To the end of the 18th century _Spanish wool_ was the finest and best
+wool in the world. Spanish sheep have since been introduced into
+various countries, such as Saxony, Australia, Cape Colony, New
+Zealand, and some of the best wools now come from the colonies.
+
+_Alpaca, Vicuna and Llama_ wools are obtained from different species
+of South American goats.
+
+_Mohair_ is obtained from the Angora goat of Asia Minor.
+
+_Kashmir_ wool is got from the Thibetan goat.
+
+_Camel_ hair is the soft under wool of the camel, which is shed
+annually. It is of a brown colour.
+
+The colour of wool varies from white to a very dark brown black, with
+all shades of fawn, grey and brown in between. The natural colours are
+not absolutely fast to light but tend to bleach slightly with the sun.
+
+Fleeces are of various kinds, the principal being: _Lambs_, 3 to 6
+months growth, the finest, softest and most elastic of wool. _Hogs and
+Tegs_: the first shearing of sheep that have not been shorn as lambs.
+_Wethers_: all clips succeeding the first shearing.
+
+Wool comes into the market in the following condition. 1) _In the
+grease_, not having been washed and containing all impurities. 2)
+_Washed_, with some of the grease removed and fairly clean. 3)
+_Scoured_, thoroughly cleaned & all grease removed.
+
+
+ON WOOL DYEING.--There are four principal methods of dyeing wool.
+
+1st.--The wool is boiled first with the mordant and then in a fresh
+bath with the dye. This method of dyeing is the most satisfactory and
+gives brighter and faster colours than the other methods. It is not
+necessary to throw away the solution after the mordanting has been
+done, but it can be replenished for a fresh lot of wool; a separate
+bath is used for the dye.
+
+2nd.--The wool is boiled first with the dye and, when it has absorbed
+as much of the colour as possible, the mordant is added to the same
+bath, thus fixing the colour. This is called the "stuffing" and
+"saddening" method; the "stuffing" being the boiling of the wool with
+the dye stuff and the "saddening" the fixing the colour by the
+mordant.
+
+A separate bath can be used for each of these processes, in which case
+each bath can be replenished and used again for a fresh lot of wool.
+
+3rd.--The wool is boiled with the mordant and dye in the same bath
+together. The colour, as a rule, is not so fast & good as with a
+separate bath, though with some dyes a brighter colour is obtained.
+
+4th.--The wool is mordanted, then dyed, then mordanted again
+(saddened). This method is adopted to ensure an extremely fast colour.
+The mordant in this case should be used rather sparingly.
+
+Wool can be dyed either in the fleece, in the yarn or in the woven
+cloth. Raw wool always contains a certain amount of natural grease.
+This should not be washed out until it is ready for dyeing, as the
+grease keeps the moth out to a considerable extent. Hand spun wool is
+always spun in the oil to facilitate spinning. All grease and oil must
+be scoured out before dyeing is begun, and this must be done very
+thoroughly or the wool will take the colour unevenly.
+
+The principal detergent known from earliest times is stale urine. In
+the Highlands this is used in the proportion of 1 part to 5 of water.
+It is the best scouring agent and leaves the wool soft and elastic.
+Carbonate of soda is also used. But a good pure soap is the most
+convenient scouring agent. A suds should be made with hot water, and
+the wool, which has been soaked in warm water previously, should be
+well squeezed and worked in the suds till all the grease is removed.
+This should be done two or three times if needed, and then the wool
+rinsed out thoroughly in clean water. Soda is apt to make the wool
+harsh and should be avoided. A little Ammonia added to the washing
+water helps.
+
+To prevent yarn felting when it is scoured, it should be first steeped
+in hot water and left to cool. Soft soap is best for long fine wool.
+Urine for short wools; or urine and soda ash.
+
+_Another way of cleansing wool._ Make a hot bath of 4 parts water and
+1 part urine, enter wool, teasing it and opening it out to admit the
+full action of the liquid. After 20 minutes immersion, remove and
+allow to drain. Then rinse in clear running water and allow to dry.
+Use no soap. The liquid can be used again. The wool often loses one
+fifth of its weight in the process of washing.
+
+_To soften yarn_--In a gallon of hot water dissolve half pound of
+common soda, then add half-pint of sweet oil and stir well. A little
+of this added to the washing water, for some colours, will soften the
+yarn.
+
+_To bleach wool_--The wool is suspended in a closed room on hoops, and
+under the wool chafing dishes are placed with lighted coals on which
+powdered sulphur is cast. The room door is afterwards shut so that the
+smoke may be the longer retained to act on the wool, which is to
+remain until it is entirely whitened.
+
+
+ON SILK.--There are two kinds of silk, 1) _raw silk_ (reeled silk,
+thrown silk, drawn silk), and 2) _waste silk_ or spun silk.
+
+Raw silk is that directly taken from the cocoons. Waste silk is the
+silk from cocoons that are damaged in some way so that they cannot be
+reeled off direct. They are therefore carded and spun, like wool or
+cotton.
+
+Silk in the raw state is covered with a silk gum which must be boiled
+off before dyeing is begun. It is tied up in canvas bags and boiled up
+in a strong solution of soap for three or four hours until all the gum
+is boiled off. If it is yellow gum, the silk is wrought first in a
+solution of soft soap at a temperature just below boiling point for
+about an hour, then put into bags and boiled. After boiling, the soap
+is well washed out.
+
+Generally speaking, the affinity of silk for dyes is similar but
+weaker in character to that of wool. The general method for dyeing is
+the same as for wool, except that in most cases lower temperatures are
+used in the mordanting. In some cases, soaking in a cold concentrated
+solution of the mordant is sufficient. The dyeing of some colours is
+also at a low temperature.
+
+_Of the preparation of raw silk._ For every pound of raw silk, take
+Â¼Â lb. of soap; first put the silk into a bag, or so make it up that
+tangling may be prevented, then let it boil together for 2 hours,
+after which it must be very well cleansed, and so it is ready to dye
+all sorts of colours, being first allomed.[1]
+
+_How the boiled silk must be allomed._ In proportion to every pound of
+silk, take Â¼Â lb. of Allom, melt in a little kettle or skillet, and
+when melted, throw it in to a tub of water, into which put the silk to
+steep, where let it lie a whole night.[1]
+
+_To soften silk after dyeing._ Into a large vessel nearly full of
+water, a solution of soap is poured, in the proportion of from 4 to 5
+lbs. of soap for every 110Â lbs. of silk. The solution of soap is
+strained through a cloth into the water and well mixed. The silk is
+then introduced & left for about quarter of an hour after which it is
+wrung out and dried.
+
+
+ON COTTON.--Cotton is the down surrounding the seeds in pods of
+certain shrubs and trees growing in tropical and semi-tropical
+countries. It was first introduced into Europe by the Saracens and was
+manufactured into cloth in Spain in the early 13th century. Cotton
+cloth was made in England in the early 17th century. The colour of
+cotton varies from deep yellow to white. The fibre differs in length,
+the long stapled being the most valued. Cotton is difficult to dye and
+requires a special preparation. It is first boiled with water till
+thoroughly softened and wetted. Then alumed in the proportion of 1 of
+alum to 4 of the cotton (see page 28). It is then galled. The galling
+is done with different proportions of gall-nuts and other astringents
+(such as tannic acid, myrobalams, sumach, catechu) according to the
+quality of the astringents and the effect wished to be obtained. If
+gall-nuts are used they are bruised, then boiled for about two hours
+in a quantity of water. The bath is then allowed to cool till the hand
+can bear it. The cotton is worked well in this solution and then left
+for 24 hours. After which it is wrung out and dried.
+
+Cotton is sometimes boiled in sour water in order to cleanse it:
+sometimes an alkaline ley is used: the cotton must be boiled in it for
+2 hours, then wrung out and rinsed in clean water and dried. Cotton
+dyeing has been carried on for centuries in the East. In India "before
+a cloth is ready to be dyed with a fast colour, it has generally to
+undergo a preliminary process of preparation more or less elaborate,
+the different stages of which may be recited as washing, bleaching,
+dunging, galling, aluming, or mordanting, and again washing." (_A
+Monograph on dyes and dyeing in the Bombay Presidency_, by C. G. H.
+Fawcett, 1896.) It is washed first of all to remove all impurities,
+whether those naturally belonging to the fibre or those purposely
+introduced during the processes of spinning and weaving. The bleaching
+removes grease, etc. This is done in India by the sun, air and
+moisture. The dunging process consists of passing the cotton through a
+hot solution of cow dung, which renders the dye fast. This is
+sometimes replaced by substitutes, such as the phosphates of soda and
+lime, silicates of soda, etc. The next operation of galling is an
+important step in the Indian process of dyeing. It is applied to
+cotton, linen and silk. Vegetable infusions containing tannin are
+applied to the cloth. Those mostly used are myrobalams, pomegranate
+rind, tamarisk galls, and pistachio galls. The cloth is then alumed,
+washed, and is then ready to be dyed.
+
+_Bancroft_ says:--"The fibres of linen or cotton when spun or woven
+are prepared for the dyer by being first boiled in water with a
+suitable proportion of potash (which for linen should be made caustic,
+in order that it may act more strongly upon the oily and resinous
+matters abounding in flax) and afterwards bleached by exposure upon
+the grass to sun and air. But as this operation commonly leaves a
+portion of earthy matter in the linen or cotton, it ought to be soaked
+or steeped in water soured by sulphuric acid, to dissolve and remove
+this earthy matter, taking care afterwards to wash or rinse off the
+acid."
+
+A few of the natural dye stuffs are capable of dyeing cotton direct,
+without a mordant, such as Turmeric, Barberry bark, safflower,
+annatto. For other dyes cotton has a special attraction, such as
+catechu, fustic, logwood.
+
+
+ON LINEN.--Linen is flax, derived from the decomposed stalks of a
+plant of the genus of Linum. It grows chiefly in Russia, Belgium,
+France, Holland, and Ireland. The plants after being gathered are
+subjected to a process called "retting", which separates the fibre
+from the decaying part of the plant. In Ireland and Russia this is
+usually done in stagnant water, producing a dark coloured flax. In
+Belgium, Holland and France, retting is carried out in running water,
+and the resulting flax is a lighter colour. Linen is more difficult to
+dye than cotton, probably on account of the hard nature of the fibre.
+The same processes are used for dyeing linen as for cotton.
+
+"Linen thread is dyed in the same manner as cotton, only, that
+previous to its being purged like cotton thread, it is usual to boil
+it in water, adding for every pound of thread a quarter pound of
+chopped sorrel. Oil of vitriol is, however, more convenient and better
+than sorrel."--D'Apligny.
+
+_To Bleach Linen._--(For 13 to 15 yards linen) Boil Â½Â lb. soap and
+Â½Â lb. soda in a gallon of water. Put it in a copper and fill up with
+water, leaving room for the linen to be put in. Put in the linen and
+bring to the boil. Boil for 2 hours, keeping it under the water and
+covered. Stir occasionally. Then spread out on the grass for 3 days,
+watering it when it gets dry. Repeat this boiling and grassing for 3
+weeks. Your linen is then pure white.
+
+_To bleach linen a cream colour._--Boil Â½Â lb. soap and Â½Â lb. soda in a
+gallon of water. Fill copper up with water and put in linen. Boil for
+2 hours. Repeat this once a day for 4 days. The linen should not be
+wrung out but kept in the water till ready to be put into the fresh
+bath.
+
+
+ON WATER.--A constant supply of clean soft water is a necessity for
+the dyer. Rain water should be collected as much as possible, as this
+is the best water to use. The dye house should be by a river or
+stream, so that the dyer can wash with a continuous supply. Spring and
+well water is as a rule hard, and should be avoided. In washing, as
+well as in dyeing, hard water is altogether injurious for wool. It
+ruins the brilliancy of colour, and prevents the dyeing of some
+colours. Temporary hardness can be overcome by boiling the water (20
+to 30 minutes) before using. An old method of purifying water, which
+is still used by some silk and wool scourers, is to boil the water
+with a little soap, skimming off the surface as it boils. In many
+cases it is sufficient to add a little acetic acid to the water.
+
+_Berthollet_ says,--"Whenever, therefore, a water is limpid, when its
+flow is constant, when it has no sensible taste, and dissolves soap
+well, it may be regarded as very proper for dyeing." He also goes on
+to say that for correcting water that is bad, sour water is
+principally used, that is, water in which bran has been fermented.
+
+
+FOOTNOTE:
+
+[1] From a dye book of 1705.
+
+
+
+
+CHAPTER III.
+
+MORDANTS
+
+     Definition of mordant. The principal mordants. The
+     mordanting of silk and wool. Of linen and cotton.
+     Astringents for cotton. Alum. Various examples of using
+     alum for wool, silk, cotton and linen. Iron. Examples of
+     iron mordants. Tin. Examples of tin mordants. Chrome.
+     Examples of chrome mordants. Copper. Examples of copper
+     mordants. General observations. Tannin and the galling of
+     cotton and linen. Examples of various galling processes.
+
+
+MORDANTS.--Dyes are divided into two classes. First, the _substantive_
+dyes, which give their colour directly to the material with which they
+are boiled: and second, the _adjective_ dyes, as they are sometimes
+called. These latter include the greater number of dyes and require
+the use of a mordant to bring out their colour.
+
+There are thus two processes concerned with the dyeing of most
+colours; the first is mordanting and the second is the colouring or
+actual dyeing. The mordanting prepares the stuff to receive the
+dye--(_mordere_, to bite.) The early French dyers thought that a
+mordant had the effect of opening the pores of the fibres, so that the
+dye could more easily enter; but according to Hummel and later dyers
+the action of the mordant is purely chemical; and he gives a
+definition of a mordant as "that body, whatever it may be, which is
+fixed on the fibre in combination with any given colouring matter."
+The mordant is first precipitated on to the fibre and combines with
+the colouring matter in the subsequent dye bath. But, whether the
+action is chemical or merely physical, the fact remains that all
+adjective dyes need this preparation of the fibre before they will fix
+themselves on it. The use of a mordant, though not a necessity, is
+sometimes an advantage when using substantive dyes.
+
+In early days the leaves and roots of certain plants were used. This
+is the case even now in India and other parts where primitive dyeing
+methods are still carried on. Alum has been known for centuries in
+Europe. Iron and tin filings have also been used. Alum and copperas
+have been known in the Highlands for long ages. Stale urine is also
+much used in Scotland and Ireland, but perhaps more as a clearing
+agent than as an actual mordant.
+
+Silk and wool require very much the same preparation except that in
+the case of silk high temperatures should be avoided. Wool is
+generally boiled in a weak solution of whatever mordant is used. With
+silk, as a rule, it is better to use a cold solution, or a solution at
+a temperature below boiling point. Cotton and linen are more difficult
+to dye than wool or silk. Their fibre is not so porous and will not
+hold the dye stuff without a more complicated preparation. The usual
+method of preparing linen or cotton is to boil it first with some
+astringent. The use of astringents in dyeing depends upon the tannic
+acid they contain. In combination with ordinary mordants, tannic acid
+aids the attraction of the colouring matter to the fibre and adds
+brilliancy to the colours. The astringents mostly used are tannic
+acid, gall nuts, sumach and myrobalams. Cotton has a natural
+attraction for tannic acid, so that when once steeped in its solution
+it is not easily removed by washing.
+
+
+ALUM. (_Aluminium sulphate._)--This is the most generally used of all
+the mordants, and has been known as such from early times in many
+parts of the world. For most colours a certain proportion of cream of
+tartar should be added to the alum bath as it helps to brighten the
+ultimate colour. The usual amount of alum used is a quarter of a pound
+to every pound of wool. As a rule, less mordant is needed for light
+colours than for dark. An excess of alum is apt to make the wool
+sticky.
+
+"For dyeing worsted and stuffs yellow, you make use of the usual
+preparation, viz., of tartar and alum. You allow four ounces of alum
+to every pound of wool, or twenty-five pounds to every hundred. With
+regard to the tartar, one ounce to every pound is sufficient for
+yellow, though it requires two for red."--Hellot.
+
+The usual length of time for boiling with alum is from Â½ an hour to 1
+hour; but some dyers give as much as 2Â½ hours.
+
+_Various examples of mordanting with alum._--
+
+_For silk._ Wet out the silk thoroughly with water and wring out. Then
+work it about a little in a strong solution of alum, previously
+dissolved in hot water, and steep for several hours (or over night).
+Then wash well. It should not be allowed to dry before dyeing. "Silks
+are always alumed in the cold, because when they are alumed in a hot
+bath, they are apt to lose a portion of their lustre." _Berthollet._
+
+_For wool._ Â¼Â lb. of Alum and 1 oz. Cream of tartar for every pound of
+wool. This is dissolved and when the water is warm the wool is
+entered. Raise to boiling point and boil for one hour. The bath is
+then taken off the fire and allowed to cool over night. The wool is
+then wrung out (not washed) and put away in a linen bag in cool place
+for four or five days, when it is ready for dyeing.
+
+_For cotton and linen._ After boiling in water (some use a sour water,
+some an alkaline ley) the cotton is put into the alum bath, Â¼Â lb. of
+Alum to 1Â lb. of cotton. The alum is dissolved in hot water with soda
+in the proportion of 1 part soda to 16 of alum. (Some add a small
+quantity of tartar and arsenic). The cotton is well worked in this
+solution and left 24 hours. It is then washed, and afterwards galled.
+
+_For linen._ Â¼Â lb. alum for every pound of linen. Boil for 2Â½ hours
+and immediately put into the dye bath.
+
+_For wool._ 6 to 8 per cent. of alum and 5 to 7 per cent. of tartar of
+the weight of wool.
+
+
+IRON. (_Ferrous Sulphate_, _copperas_, _green vitriol_)
+
+Iron is one of the oldest mordants known and is largely used in wool
+and cotton dyeing. It is almost as important as alum. With wool it
+should be used in combination with cream of tartar. The temperature of
+the mordanting bath must be raised very gradually to boiling point or
+the wool will dye unevenly. A general method of dealing with copperas
+is to boil the wool first in a decoction of the colouring matter and
+then add the mordant to the same bath in a proportion of 5 to 8 per
+cent. of the weight of wool: and continue boiling for half an hour or
+so longer. With some dyes a separate bath is needed, such as with
+Camwood or Catechu. If used for cotton, the cotton is first dyed in a
+boiling decoction of the dye stuff and then passed through a cold
+solution of ferrous sulphate. Probably the commonest way of applying
+copperas in cotton dyeing is to prepare the cotton with tannin, pass
+through clear lime water and then through a copperas solution. Great
+care is needed in the using of copperas, as, unless it is thoroughly
+dissolved and mixed with the water before the wool is entered, it is
+apt to stain the wool. It also hardens wool if used in excess, or if
+boiled too long.
+
+Copperas is mostly used for the fixing of wool colours (Fustic etc.)
+to produce brown shades by the "stuffing and saddening" method (see
+page 14), the wool being boiled first in a decoction of the dye for
+about an hour, and then for Â½ an hour with the addition of 5 to 8 per
+cent. of copperas. If used for darkening colours, copperas is added to
+the bath, after the dyeing, and the boiling continued for 15 to 20
+minutes.
+
+_Examples of various proportions for Mordanting._--
+
+8 per cent. of copperas and 20 per cent. of cream of tartar is a
+mordant used for some colours.
+
+4 per cent. copperas, 10 per cent. cream of tartar gives good olive
+colours with weld.
+
+8 per cent. copperas without tartar with single bath method, for dark
+olive brown with old fustic.
+
+2 oz. copperas and 2 oz. cream of tartar to 2Â½Â lbs. wool.
+
+2 oz. copperas, 1Â½ oz. oxalic acid to 2Â½Â lbs. wool.
+
+
+TIN.--(_Stannous chloride_, _tin crystals_, _tin salts_, _muriate of
+tin_.)
+
+Tin is not so useful as a mordant in itself, but as a modifying agent
+with other mordants. It must be always used with great care, as it
+tends to harden the wool, making it harsh and brittle. Its general
+effect is to give brighter, clearer and faster colours than the other
+mordants. When used as a mordant before dyeing, the wool is entered
+into the cold mordanting bath, containing 4 per cent. of stannous
+chloride and 2 per cent. oxalic acid: the temperature is gradually
+raised to boiling, and kept at this temperature for 1 hour. It is
+sometimes added to the dye bath towards the end of dyeing, to
+intensify and brighten the colour. It is also used with cochineal for
+scarlet on wool, in the proportion of 6 per cent. of stannous chloride
+and 4 per cent. of cream of tartar. Boil for 1 to 1Â½ hours. Then wash
+well. The washing after mordanting is not always essential. Also 6 to
+8 per cent. of oxalic acid and 6 per cent. of stannous chloride, for
+cochineal on wool. This mordant produces bright fast yellows from old
+fustic, by boiling the wool from 1 to 1Â¼ hours, with 8 per cent. of
+stannous chloride and 8 per cent. of cream of tartar. One recipe
+gives 2 oz. tin and 4Â¼ oz. cream of tartar to 2Â½Â lbs. wool in 10
+gallons of water. It is not a suitable mordant alone for cotton, but
+can be used to brighten the colour in combination with other mordants.
+"The nitro-muriate of tin (dyer's spirit) although it produces good
+yellows with quercitron bark, produces them in a much weaker degree
+than the murio-sulphate of that metal, which is really the cheapest
+and most efficacious of all the solutions or preparations of tin for
+dyeing quercitron as well as the cochineal colours."-- _Bancroft._
+
+
+CHROME. (_Potassium dichromate_, _Bichromate of Potash._)
+
+Chrome is a modern mordant, unknown to the dyer of 50 years ago. It is
+excellent for wool and is easy to use and very effective in its
+action. Its great advantage is that it leaves the wool soft to the
+touch, whereas the other mordants are apt to harden the wool. In
+commercial dyeing it is now almost exclusively used, as it has proved
+itself the most generally convenient. By some it is said not to be so
+fast to light as the other mordants, but it produces brighter colours.
+The wool should be boiled for one to one & a half hours with
+bichromate of potash in the proportion of 2 to 4 per cent. of the
+wool. It is then washed well and immediately dyed. Wool mordanted with
+chrome should not be exposed to light, but should be kept well covered
+with the liquid while being mordanted, else it is liable to dye
+unevenly. An excess of chrome impairs the colour. 3 per cent. of
+chrome is a safe quantity to use for ordinary dyeing. One recipe gives
+1Â½ oz. of chrome to 2Â½Â lbs. of wool. It should be dissolved in the
+bath while the water is heating. The wool is entered and the bath
+gradually raised to the boiling point, and boiled for three quarters
+of an hour.
+
+In the dyeing of cotton, it is used for catechu browns and other
+colours. The cotton is soaked in a decoction of catechu, and
+afterwards passed through a boiling solution of chrome, or it is
+worked for half an hour in a bath of chrome at 60Â°C., and then washed.
+It is usual to wash wool or cotton after mordanting with chrome, but
+some dyers do not think it necessary.
+
+
+COPPER. (_Copper Sulphate_, _Verdigris_, _blue vitriol_,
+_blue-stone_.)
+
+Copper is rarely used as a mordant. It is usually applied as a
+saddening agent, that is, the wool is dyed first, and the mordant
+applied afterwards to fix the colour. With cream of tartar it is used
+sometimes as an ordinary mordant before dyeing, but the colours so
+produced have no advantage over colours mordanted by easier methods\.
+
+
+EXAMPLES.--6 per cent. of copper is used as a mordant for weld to
+produce an olive yellow. 4 to 5 per cent. is used with old fustic for
+yellow. 10 per cent. of copper gives to wool a reddish purple with
+cochineal.
+
+Mordants should not affect the physical characteristics of the fibres.
+Sufficient time must be allowed for the mordant to penetrate the fibre
+thoroughly. If the mordant is only superficial, the dye will be
+uneven: it will fade and will not be as brilliant as it should be. The
+brilliancy and fastness of Eastern dyes are probably due to a great
+extent to the length of time taken over the various processes of
+dyeing. _The longer time that can be given to each process, the more
+satisfactory will be the result._
+
+Different mordants give different colours with the same dye stuff. For
+example:--Cochineal, if mordanted with alum, will give a crimson
+colour; with iron, purple; with tin, scarlet; and with chrome or
+copper, purple. Logwood, also, if mordanted with alum, gives a mauve
+colour; if mordanted with chrome, it gives a blue. Fustic, weld, and
+most of the yellow dyes, give a greeny yellow with alum, but an old
+gold colour with chrome; and fawns of various shades with other
+mordants.
+
+
+TANNIN.--(_Tannic Acid_.)--Tannins are used in the dyeing of cotton
+and linen. Cotton and linen possess the remarkable power of attracting
+tannins from their aqueous solution, and when these substances are
+prepared with tannins, they are able to retain dyes permanently.
+Cotton saturated with tannin, attracts the dye stuff more rapidly, and
+holds it. Tannic acid is the best tannin for mordanting cotton and
+linen, as it is the purest and is free from any other colouring
+matter. It is, therefore, used for pale and bright shades. But for
+dark shades, substances containing tannic acid are used, such as
+sumach, myrobalans, valonia, divi-divi, oak galls, chestnut (8 to 10
+per cent. of tannin), catechu.
+
+Cotton and linen are prepared with tannin after they have been through
+the required cleansing, and if necessary, bleaching operations. A
+bath is prepared with 2 to 5 per cent. of tannic acid of the weight of
+the cotton, and a sufficient quantity of water. For dark shades, 5 to
+10 per cent. should be used. The bath is used either hot or cold. It
+should not be above 60Â°C. The cotton is worked in this for some time,
+and then left to soak for 3 to 12 hours, while the bath cools. It is
+then wrung out and slightly washed.
+
+The following gives the relative proportions of the various substances
+containing tannin:--1Â lb. tannin _equals_ 4Â lbs. sumach, 18Â lbs.
+myrobalans, 14Â lbs. divi-divi, 11Â lbs. oak galls.
+
+A few examples taken from various recipes of cotton dyeing:--
+
+     For 10Â lbs. cotton use 12 oz. tannin.
+     For 50Â lbs. cotton use 10Â lbs. sumach.
+     For 40Â lbs. cotton use 10Â lbs. sumach.
+     For 20Â lbs. cotton use 2Â lbs. yellow catechu or black catechu.
+     For 20Â lbs cotton spend 3Â lbs. of catechu with 3 oz. of blue
+       vitriol.
+
+Some recipes soak the cotton for 24 hours, others for 48 hours.
+
+
+
+
+CHAPTER IV.
+
+BRITISH DYE PLANTS
+
+
+The introduction of foreign dye woods and other dyes during the 17th
+and 18th centuries rapidly displaced the native dye plants, except in
+certain out of the way places such as the Highlands and parts of
+Ireland. Some of these British dye plants had been used from early
+historical times for dyeing. Some few are still in use in commercial
+dye work (pear, sloe, and a few others); but their disuse was
+practically completed during the 19th century when the chemical dyes
+ousted them from the market.
+
+The majority of these plants are not very important as dyes, and could
+not probably now be collected in sufficient quantities. Some few
+however are important, such as woad, weld, heather, walnut, alder,
+oak, some lichens; and many of the less important ones would produce
+valuable colours if experiments were made with the right mordants.
+Those which have been in use in the Highlands are most of them good
+dyes. Among these are Ladies Bedstraw, whortleberry, yellow iris,
+bracken, bramble, meadow sweet, alder, heather and many others. The
+yellow dyes are the most plentiful, and many of these are good fast
+colours. Practically no good red, in quantity, is obtainable. Madder
+is the only reliable red dye among plants, and that is no longer
+indigenous in England. Most of the dye plants require a preparation of
+the material to be dyed, with alum, or some other mordant, but a few,
+such as Barberry, and some of the lichens, are substantive dyes, and
+require no mordant.
+
+
+PLANTS WHICH DYE RED.--
+
+     Potentil. _Potentilla Tormentilla._ Roots.
+
+     Wild Madder. _Rubia peregrina._
+
+     Lady's Bedstraw. _Galium verum._ Roots.
+
+     Gromwell. _Lithospermum arvense._
+
+     Marsh Potentil. _Potentilla Comarum._ Roots.
+
+     Birch. _Betula alba._ Fresh inner bark.
+
+     Bed-straw. _Galium boreale._ Roots.
+
+     Common Sorrel. _Rumex acetosa._ Roots.
+
+     Evergreen Alkanet. _Anchusa sempervirens._ With chloride of tin.
+
+     Dyer's Woodruff. _Asperula tinctoria._ Roots.
+
+
+PLANTS WHICH DYE BLUE.--
+
+     Woad. _Isatis Tinctoria._
+
+     Whortleberry or blaeberry. _Vaccinium Myrtillus._ Berries.
+
+     Elder. _Sambucus nigra._ Berries.
+
+     Privet. _Ligustrum vulgare._ Berries, with alum and salt.
+
+     [2]Sloe. _Prunus communis._ Fruit.
+
+     Red bearberry. _Arctostaphylos Uva-Ursi._
+
+     Dogs Mercury. _Mercurialis perennis._
+
+     Yellow Iris. _Iris Pseudacorus._ Root.
+
+     Devil's Bit. _Scabiosa succisa._ Leaves prepared like woad.
+
+
+PLANTS WHICH DYE YELLOW.--
+
+     Weld. _Reseda luteola._
+
+     Meadow Rue. _Thalictrum flavum._ Roots.
+
+     Marsh Marigold. _Caltha palustris._ Flowers.
+
+     S. John's Wort. _Hypericum perforatum._
+
+     Heath. _Erica vulgaris._ With Alum.
+
+     Spindle tree. _Euonymus EuropÃ¦us._
+
+     Buckthorn. _Rhamnus frangula_ and _R. cathartica._ Berries and
+     Bark.
+
+     [3]Dyer's Greenwood. _Genista tinctoria._ Young shoots and leaves.
+
+     Kidney Vetch. _Anthyllis Vulnararia._
+
+     Marsh Potentil. _Potentilla Comarum._
+
+     Ling. _Calluna vulgaris._
+
+     Yellow Centaury. _Chlora perfoliata._
+
+     Hornbeam. _Carpinus Betulus._ Bark.
+
+     Hedge stachys. _Stachys palustris._
+
+     Polygonum Persecaria.
+
+     Polygonum Hydropiper.
+
+     Hop. _Humulus lupulus._
+
+     Stinking Willy, or Ragweed. _Senecio JacobÃ¦a._
+
+     Yellow Camomile. _Anthemis tinctoria._
+
+     Common dock. _Rumex obtusifolius._ Root.
+
+     [4]Sawwort.
+
+     _Serratula tinctoria._
+
+     Gorse. _Ulex EuropÃ¦us._ Bark, flowers and young shoots.
+
+     Broom. _Sarothamnus scoparius._
+
+     Bracken. _Pteris aquilina._ Roots. Also young tops.
+
+     Way-faring tree. _Viburnum lantana._ Leaves, with alum.
+
+     Bramble. _Rubus fructicosus._
+
+     Nettle. _Urtica._ With alum.
+
+     Bog Myrtle or Sweet Gale. _Myrica Gale._
+
+     Teasel. _Dipsacus Sylvestris._
+
+     Sundew. _Drosera._
+
+     Barberry. _Berberis vulgaris._ Stem and root.
+
+     Bog asphodel. _Narthecium ossifragum._
+
+     Agrimony. _Agrimonia Eupatoria._
+
+     Yellow corydal. _Corydalis lutea._
+
+     Privet. _Ligustrum vulgare._ Leaves.
+
+     Crab Apple. _Pyrus Malus._ Fresh inner bark.
+
+     Ash. _Fraxinus excelsior._ Fresh inner bark.
+
+     Pear. Leaves.
+
+     Poplar. Leaves.
+
+     Plum.  Leaves.
+
+     Birch. Leaves.
+
+     [5]Willow. Leaves.
+
+
+PLANTS WHICH DYE GREEN.--
+
+     Privet. _Ligustrum vulgare._ Berries and leaves, with
+     alum.
+
+     Flowering reed. _Phragmites communis._ Flowering tops,
+     with copperas.
+
+     Elder. _Sambucus nigra._ Leaves with alum.
+
+     Nettle. _Urtica dioica_ and _U. Urens_.
+
+     Lily of the valley. _Convalaria majalis._ Leaves.
+
+     Larch. Bark, with alum.
+
+
+PLANTS WHICH DYE BROWN.--
+
+     Whortleberry. _Vaccinium Myrtillus._ Young shoots, with
+     nut galls.
+
+     Larch. Pine needles, collected in Autumn.
+
+     Walnut. Root and green husks of nut.
+
+     Water Lily. _NymphÃ¦a alba._ Root.
+
+     Alder. _Alnus glutinosa._ Bark.
+
+     Birch. _Betula alba._ Bark.
+
+     Oak. _Quercus Rohur._ Bark.
+
+     Red currants, with alum.
+
+     Hop. _Humulus lupulus._ Stalks give a brownish red colour.
+
+
+PLANTS WHICH DYE PURPLE.--
+
+     Whortleberry or blaeberry. _Vaccinium myrtillus._ Berries.
+     "It contains a blue or purple dye which will dye wool and
+     silk without mordant."
+
+     Deadly nightshade. _Atropa Belladonna._
+
+     Sundew. _Drosera._
+
+     Bryony. _Bryonia dioica._ Berries.
+
+     Danewort. _Sambucus Ebulus._ Berries.
+
+     Elder. _Sambucus nigra._ Berries, with alum, a violet;
+     with alum and salt, a lilac colour.
+
+     Dandelion. _Taraxacum Dens-leonis._ Roots. Dyes a magenta
+     colour.
+
+     Damson. Fruit, with alum.
+
+
+PLANTS WHICH DYE BLACK.--
+
+     Alder. _Alnus glutinosa._ Bark with copperas.
+
+     Blackberry. _Rubus fruticosus._ Young shoots, with salts
+     of iron.
+
+     Dock. _Rumex._ Root.
+
+     Iris. _Iris Pseudacorus._ Root.
+
+     Meadowsweet. _Spirea Ulmaria._
+
+     Oak. Bark and acorns.
+
+     Elder. Bark, with copperas.
+
+
+FOOTNOTES:
+
+[2] "On boiling sloes, their juice becomes red, and the red dye which
+it imparts to linen changes, when washed with soap, into a bluish
+colour, which is permanent."
+
+[3] "For giving very inferior yellow upon coarser woollens, the dyer's
+broom, _genista tinctoria_, is sometimes employed, with the common
+preparation of alum and tartar."
+
+[4] Sawwort which grows abundantly in meadows affords a very fine pure
+yellow with alum mordant, which greatly resembles weld yellow. It is
+extremely permanent.
+
+[5] "The leaves of the sweet willow, _salix pentandra_, gathered at
+the end of August and dried in the shade, afford, if boiled with about
+one thirtieth potash, a fine yellow colour to wool, silk and thread,
+with alum basis. All the 5 species of Erica or heath growing on this
+island are capable of affording yellows much like those from the
+dyer's broom; also the bark and shoots of the Lombardy poplar,
+_populus pyramidalis_. The three leaved hellebore, _helleborus
+trifolius_, for dyeing wool yellow is used in Canada. The seeds of the
+purple trefoil, lucerne, and fenugreek, the flowers of the French
+marigold, the chamomile, _antemis tinctoria_, the ash, _fraxinus
+excelsior_, fumitory, _fumaria officinalis_, dye wool yellow." "The
+American golden rod, _solidago canadensis_, affords a very beautiful
+yellow to wool, silk and cotton upon an aluminous basis."--Bancroft.
+
+
+
+
+CHAPTER V.
+
+THE LICHEN DYES
+
+
+Some of the most useful dyes and the least known are to be found among
+the Lichens. They seem to have been used among peasant dyers from
+remote ages, but apparently none of the great French dyers used them,
+nor are they mentioned in any of the old books on dyeing. The only
+Lichen dyes that are known generally among dyers are Orchil and
+Cudbear, and these are preparations of lichens, not the lichens
+themselves. They are still used in some quantity and are prepared
+rather elaborately. But a great many of the ordinary Lichens yield
+very good and permanent dyes. The Parmelia saxatilis and P.
+omphaloides, are largely used in the Highlands & West Ireland, for
+dyeing brown of all shades. No mordant is needed, and the colours
+produced are the fastest known. "Crottle," is the general name for
+Lichens, in Scotland. They are gathered off the rocks in July and
+August, dried in the sun, and used to dye wool, without any
+preparation. The crottle is put into the dye bath with a sufficient
+quantity of water, boiled up and allowed to cool and then boiled up
+with the wool until the shade required is got. This may take from one
+to three or four hours, as the dye is not rapidly taken up by the
+wool. Other dyers use it in the following way:--A layer of crottle, a
+layer of wool, and so on until the bath is full; fill up with cold
+water and bring to the boil, and boil till the colour is deep enough.
+Some of the finest browns are got in this way. The wool does not seem
+to be affected by keeping it in the dye a long time. A small quantity
+of acetic acid put in with the Lichen is said to assist in exhausting
+the colour.
+
+The grey Lichen _Ramalina scopulorum_, dyes a fine shade of yellow
+brown. It grows very plentifully on old stone walls, especially by the
+sea, and in damp woods, on trees, and on old rotten wood. Boil the
+Lichen up in sufficient water one day, and the next day put in the
+wool, and boil up again till the right colour is got. If the wool is
+left in the dye for a day or more after boiling, it absorbs more
+colour, and it does not hurt the wool, but leaves it soft and silky to
+the touch, though apt to be uneven in colour. Some mordant the wool
+first with alum, but it does not seem to need it.
+
+The best known of the dye Lichens are Parmelia saxatilis, and Parmelia
+omphalodes, which are still largely used in Scotland and Ireland for
+dyeing wool for tweeds. The well known Harris tweed smell is partly
+due to the use of this dye.
+
+Other Lichens also known for their dyeing properties are:--Parmelia
+caperata or Stone Crottle which contains a yellow dye, P.
+ceratophylla, or Dark Crottle, and P. parietina, the common wall
+lichen, which gives a colour similar to the colour of the lichen
+itself, yellowish brown. In _Bancroft's_ "Philosophy of Permanent
+Colours" is to be found the following--"Besides the lichens, whose
+colour depends upon a combination with the ammonia, there are some
+which afford substantive colours, less beautiful indeed, but more
+durable, by merely boiling with water. One of these is the muscus
+pulmonarius of Caspar Bauhine, or the lichenoides pulmonium
+reticulatum vulgare marginibus peltiferus of Dillenius, called Rags
+and Stone Rags, in the northern parts of England, which, without any
+mordant, dyes a very durable dark brown colour upon white wool or
+cloth, and a fine lasting black upon wool or cloth which has
+previously received a dark blue from Indigo." The following occurs in
+an old Scottish history.--"There is one excresence gotton off the
+craigs which they call cork-lit, and make use thereof for litting, or
+dyeing a kind of purple colour." Another lichen, taken from trees in
+Scotland, was used for producing an orange tint, called Philamort. The
+tree lichen was called wood-raw, or rags, to distinguish it from stone
+lichen, or stone-raw. A deep red colour was got from the dull grey
+friable lichen, common on old stone walls, which was scraped off, with
+a metal scraper. The bright yellow lichen, growing on rocks and walls,
+and old roofs, dyes a fine plum colour, if the wool is mordanted first
+with Bichromate of Potash. There is a difficulty, however, in getting
+enough of this lichen to make the dyeing with it practicable.
+
+The colour of the plant is no indication of the colorific power. That
+is often greatly modified by the conditions of its growth,--such as
+climate, elevation above the sea, nearness or distance from the sea,
+age, season when gathered, habitat. The best season for gathering most
+lichens, is late summer and autumn.
+
+In Sweden, Scotland and other countries, the peasantry use a lichen,
+called _Lecanora tartarea_, to furnish a red or crimson dye.
+
+In Shetland, the _Parmelia saxatilis_ (Scrottyie) is used to dye
+brown. It is found in abundance on argillaceous rocks. It is
+considered best if gathered late in the year, and is generally
+collected in August. Immediately after being collected, an iron vessel
+is filled with it, and stale urine then poured over it, till the
+vessel is full. This is slowly boiled until the plant begins to assume
+a mucillaginous appearance, which generally takes place in about 2
+hours. When taken off the fire, it has the consistence of a thin
+jelly, but it speedily hardens until it is nearly as thick as
+porridge, and its colour becomes a dark rusty grey. It is then folded
+in the cloth, layer by layer of Scrottyie and cloth alternately, and
+all is boiled for about 20 minutes, in soft water, in which a little
+alum has been dissolved. It is then taken off the fire and the cloth
+washed in cold water, when the process of dyeing is complete. The
+Scrottyie, taken from between the folds of the cloth, is used several
+times for dyeing, on being treated again in the same manner.
+
+The plant used in Shetland for the red dye is the _Lecanora tartarea_.
+It is found abundantly on almost all rocks and also grows on dry
+moors, along with _Cladonia sangiferina_. (If a particle of the latter
+is allowed to be intermixed with the dye, it is supposed to be
+spoiled.) The lichen, and the dye made from it, are called Korkalett.
+This lichen is collected in May and June, and steeped in stale urine
+for about 3 weeks, being kept at a moderate heat all the time. The
+substance having then a thick and strong texture, like bread, and
+being of a bluish black colour, is taken out and made into small cakes
+of about Â¾Â lb. in weight, which are wrapped in dock leaves and hung up
+to dry in peat smoke. When dry it may be preserved fit for use for
+many years; when wanted for dyeing it is partially dissolved in warm
+water till of the consistence of Scrottyie, the dyeing proceeds in the
+same manner; 5Â lbs. of korkalett being considered sufficient for about
+4 Scotch ells of cloth. The colour produced is a light red. It is
+much used in the dyeing of yarn as well as cloth. The yarn is simply
+boiled in it without folding as in the case of cloth.[6]
+
+LinnÃ¦us mentions that a beautiful red colour may be prepared from
+Lichen pustulatus, _Gyrophora pustulata_. _G. cylindrica_ is used by
+Icelanders for dyeing woollen stuffs a brownish green colour. In
+Sweden and Norway, _Evernia vulpina_ is used for dyeing woollen stuffs
+yellow. Iceland moss, _Cetraria Islandica_, is used in Iceland for
+dyeing brown. _Usnea barbata_ is collected from trees in Pennsylvania
+& used for an orange colour for yarn.
+
+_Lecanora tartarea_ (corcur of the Scottish Highlanders) dyes a
+claret. It is usually prepared by pounding the lichen and mixing it
+with stale chamberley, to which a little salt or kelp is added; this
+mixture is kept for several weeks, and frequently stirred; being then
+brought to the consistence of coarse paste, it is made up into balls,
+with a little lime or burnt shells, and is kept ready for use. When
+used, it is coarsely powdered and a small portion of alum is generally
+added.
+
+A general method for using lichens is suggested by Dr. Westring of
+Sweden, in his "Experiments on Lichens for Dyeing Wools and Silks." He
+says:
+
+"The Lichens should be gathered after some days of rain, they can then
+be more easily detached from the rocks. They should be well washed,
+dried and reduced to a fine powder: 25 parts pure river water are
+added to 1 of powdered lichen, and 1 part of fresh quick lime to 10
+parts powdered lichen. To 10Â lbs. lichen Â½Â lb. sal ammoniac is
+sufficient when lime and sal ammoniac are used together. The vessel
+containing them should be kept covered for the first 2 or 3 days.
+Sometimes the addition of a little common salt or salt-petre will give
+greater lustre to the colours."[7]
+
+This method can be followed by anyone wishing to experiment with
+Lichens. Dr. Westring did not use a mordant as a rule. Where the same
+species of Lichen grows on both rocks and trees, the specimens taken
+from rocks give the better colours.
+
+
+ORCHIL OR ARCHIL AND CUDBEAR are substantive or non mordant dyes,
+obtained from Lichens of various species of Roccella growing on rocks
+in the Canary Islands and other tropical and sub-tropical countries.
+They used to be made in certain parts of Great Britain from various
+lichens, but the manufacture of these has almost entirely disappeared.
+They have been known from early times as dyes. They give beautiful
+purples and reds, but the colour is not very fast. The dye is produced
+by the action of ammonia and oxygen upon the crushed Lichens or weeds
+as they are called. The early way of producing the colour was by
+treating the Lichen with stale urine and slaked lime, and this method
+was followed in Scotland. Orchil is applied to wool by the simple
+process of boiling it in a neutral or slightly acid solution of the
+colouring matter. 3% Sulphuric acid is a useful combination.
+Sometimes alum and tartar are used. It dyes slowly and evenly. It is
+used as a bottom for Indigo on wool and also for compound shades on
+wool and silk. For cotton and linen dyeing it is not used. It is
+rarely used by itself as the colour is fugitive, but by using a
+mordant of tin, the colour is made much more permanent.
+
+"Archil is in general a very useful ingredient in dyeing; but as it is
+rich in colour, and communicates an alluring bloom, dyers are often
+tempted to abuse it, and to exceed the proportions that can add to the
+beauty, without, at the same time, injuring in a dangerous manner the
+permanence of the colours. Nevertheless, the colour obtained when
+solution of tin is employed, is less fugitive than without this
+addition."[8]
+
+Many of the British lichens produce colours by the same treatment as
+is used for producing Orchil. Large quantities were manufactured in
+Scotland from lichens gathered in the Shetland Islands and Western
+Highlands. This was called Cudbear. The species used by the Scottish
+Cudbear makers were generally _Lecanora tartarea_ and _Urceolaria
+calcarea_; but the following lichens also give the purple colour on
+treatment with ammonia.--_Evernia prunastri_, _Lecanora pallescens_,
+_Umbilicaria vellea_, _U. pustulata_, _Parmelia perlata_; whilst
+several others give colours of similar character, but of little
+commercial value. The manufacture of Archil and Cudbear from the
+various lichens is simple in principle. In all cases the plant is
+reduced to a pulp with water and ammonia, and the mass kept at a
+moderate heat and allowed to ferment, the process taking two or three
+weeks to complete. The ammonia used to be added in the form of stale
+urine, and additions of slaked lime were made from time to time.[9]
+The general mode of treatment for the development from the dye lichens
+of orchil and cudbear consists of the following steps:--
+
+     1.--Careful washing, drying and cleaning, to separate
+     earthy and other impurities.
+
+     2.--Pulverisation into a coarse or fine pulp with water.
+
+     3.--Regulated addition of ammonia of a certain strength
+     and derived from various sources (putrid urine, gas
+     liquor, etc.)
+
+     4.--Frequent stirring of the fermenting mass so as to
+     ensure full exposure of every part thereof to the action
+     of atmospheric oxygen.
+
+     5.--Addition of alkalis in some cases (e.g. potash or
+     soda) to heighten or modify the colour; and of chalk,
+     gypsum and other substances, to impart consistence.
+     Various accessories are employed, e.g. the application of
+     continued, moderate and carefully regulated heat during
+     the process of fermentation.[10]
+
+
+RECIPES FOR DYEING WITH LICHENS.
+
+_To dye Brown with Crotal._
+
+For 6Â¼Â lbs. (100 oz.) of wool. Dye baths may be used of varying
+strengths of from 10 to 50 oz. of Crotal. Raise the bath to the boil,
+and boil for an hour. A light tan shade is got by first dipping the
+wool in a strong solution of Crotal, a darker shade by boiling for
+half-an-hour, and a dark brown by boiling for two hours or so. It is
+better, however, to get the shade by altering the quantity of Crotal
+used. The addition of sufficient oil of vitriol to make the bath
+slightly acid will be an improvement. (A very small quantity should be
+used).
+
+_To Dye Red with Crotal._--
+
+Gather the lichen off the rocks--it is best in winter. Put layers of
+lichen and wool alternately in a pot, fill up with water and boil
+until you get the desired tint. Too much crotal will make the wool a
+dark red brown, but a very pretty terra cotta red can be got. No
+mordant is required.
+
+_To Dye Pink from a bright yellow Lichen._ (_Parmelia parietina_).
+
+Mordant the wool with 3% of Bichromate of Potash, then boil with the
+lichen for 1 hour or more.
+
+_To Dye Brown from Crotal._
+
+Boil the wool with an equal quantity of lichen for 1 or 1Â½ hours. No
+mordant is required.
+
+_To dye red purple from Cudbear & Logwood._
+
+Dye with equal quantities of Cudbear and Logwood, the wool having been
+mordanted with chrome. A lighter colour is got by dyeing with 8Â lbs.
+cudbear and Â½Â lb. logwood (for 30Â lbs. wool).
+
+_To Dye Yellow on Linen with the Lichen Peltigera canina_ (a large
+flat lichen growing on rocks in woods).
+
+Mordant with alum, (Â¼Â lb. to aÂ lb. of linen) boil for 2 hours. Then
+boil up with sufficient quantity of the lichen till the desired colour
+is got.
+
+
+LIST OF LICHENS USED BY THE PEASANTRY OF DIFFERENT COUNTRIES FOR WOOL
+DYEING.[11]
+
+SHADES OF RED, PURPLE AND ORANGE.
+
+_Roccella tinctoria._ Orseille. Grows in the South of France, on rocks
+by the sea.
+
+_Lecanora tartarea._ Crotal, Crottle, Corkur, Corcir, Korkir. Found in
+the Scotch Highlands and Islands, growing on rocks; used for the
+manufacture of Cudbear in Leith & Glasgow.
+
+_L. parella._ Light Crottle, Crabs Eye Lichen. Found in Scotland,
+France, and England, on rocks and trees, formerly celebrated in the
+South of France in the making of the dye called Orseille d'Auvergne.
+
+_L. hÃ¦matomma._--Bloody spotted lecanora, Black lecanora. Found in
+Scotland on rocks and trees.
+
+_Umbilicaria pustulata._--Blistered umbilicaria. Found on rocks in
+Norway and Sweden.
+
+_Isidium corallinum._ White crottle. Found on rocks in Scotland.
+
+_I. Westringii._ Westring's Isidium. Norway and Sweden.
+
+_Urceolaria calcarea._ Corkir, Limestone Urceolaria. Found in
+Scotland, Western Islands, Shetland and Wales, growing on limestone
+rocks.
+
+_U. Scruposa._ Rock Urceolaria. Grows on rocks in hilly districts in
+England.
+
+_U. cinerea._ Greyish Urceolaria. In England, on rocks.
+
+_Parmelia saxatilis._ Crottle, stane-raw, Staney-raw, (Scotland).
+Scrottyie, (Shetland). Sten-laf, Sten-mossa, (Norway and Sweden).
+Found on rocks and stones in Scotland, Shetland, and Scandinavia. In
+winter the Swedish peasantry wear home made garments dyed purple by
+this lichen. By the Shetlanders it is usually collected in August,
+when it is considered richest in colouring matter.
+
+_P. omphalodes._ Black Crottle, Cork, Corker, Crostil or Crostal,
+(Scotch Highlands). Arcel, (Ireland). Kenkerig, (Wales).
+Alaforel-leaf, (Sweden). Found on rocks, especially Alpine, in
+Scotland, Ireland, Wales and Scandinavia. One of the most extensively
+used dye-lichens. It yields a dark brown dye readily to boiling water,
+and it is easily fixed to yarns by simple mordants. It is stated to
+yield a red, crimson or purple dye.
+
+_P. caperata._ Stone crottle, Arcel. Found in North of Ireland and
+Isle of Man, on trees. Said to dye yarn brown, orange and lemon
+yellow.
+
+_P. conspersa._ Sprinkled parmelia. Found growing on rocks in England.
+
+_Evernia prunastri._ Ragged hoary lichen. Stag's horn lichen. Found in
+Scotland, on trees.
+
+_Ramalina scopulorum._ Ivory-like ramalina. Scotland, on maritime
+rocks. A red dye.
+
+_R. farinacea._ Mealy ramalina. On trees in England.
+
+_Borrera ashney._ Chutcheleera. India.
+
+_Solorina crocea._ Saffron yellow solorina. In Scotland, on mountain
+summits. The colouring matter is ready formed and abundant in the
+thallus.
+
+_Nephroma parilis._ Chocolate colored nephroma. Scotland, on stones.
+Said to dye blue.
+
+_Sticta pulmonacea._ On trees.
+
+_Lecidea sanguinaria._ Red fruited lecidea. In Scotland, on rocks.
+
+_Conicularia aculeata._ var. _spadicea_. Brown prickly cornicularia.
+Canary Islands, Highland Mountains.
+
+_Usnea barbata._ Bearded Usnea. Pennsylvania and South America. On old
+trees. Stated to dye yarn orange.
+
+_U. florida._ Flowering Usnea. Pale greenish yellow or reddish brown.
+
+_U. plicata._ Plaited usnea. On trees.
+
+
+SHADES OF BROWN
+
+_Cetraria Islandica._ Iceland moss. Iceland heaths, and hills. It
+yields a good brown to boiling water, but this dye appears only to
+have been made available to the Icelanders.
+
+_Parmelia physoides._ Dark crottle, Bjork-laf. Found in Sweden,
+Scotland & Scandinavia, on rocks and trees.
+
+_P. omphalodes._ In Scandinavia and Scotland. Withering asserts that
+it yields a purple dye paler, but more permanent, than orchil; which
+is prepared in Iceland by steeping in stale lye, adding a little salt
+and making it up into balls with lime.
+
+_Sticta pulmonacea._ Oak lung, Lungwort, Aikraw, Hazel-raw, Oak rag,
+Hazel rag, Hazel crottle, Rags. Found on trees in England, Scotland,
+North of Ireland, Scandinavia. It dyes wool orange and is said to have
+been used by the Herefordshire peasantry to dye stockings brown. Some
+species yield beautiful saffron or gamboge coloured dyes, e.g. _S.
+flava_, _crocata_, _aurata_.
+
+_For continuation of list see Appendix._
+
+
+FOOTNOTES:
+
+[6] T. Edmonston. _On the Native Dyes of the Shetland Islands_ 1841.
+
+[7] The _Annales de Chimie_. Stockholm Transactions 1792.
+
+[8] The Art of Dyeing. _Berthollet._ He gives minute directions for
+the preparation of Archil. See page 365.
+
+[9] Some British Dye Lichens. _Alfred Edge._
+
+[10] From Dr. W. L. Lindsay, On Dyeing Properties of Lichens.
+
+[11] From an article by Dr. Lauder Lindsay on the "Dyeing Properties
+of Lichens," in the _Edinburgh Philosophical Journal._ July to October
+1855.
+
+
+
+
+CHAPTER VI.
+
+[12]BLUE
+
+INDIGO, WOAD, LOGWOOD.
+
+
+"Notwithstanding the very great facility of dyeing wool blue, when the
+blue vat is once prepared, it is far otherwise with regard to the
+preparation of this vat, which is actually the most difficult
+operation in the whole art of dyeing."--Hellot.
+
+
+_INDIGO_
+
+Indigo is the blue matter extracted from a plant, _Indigofera
+tinctoria_ & other species, growing in Asia, South America and Egypt.
+It reaches the market in a fine powder, which is insoluble in water.
+There are two ways of dyeing with indigo. It may be dissolved in
+sulphuric acid or oil of vitriol, thereby making an indigo extract.
+This process was discovered in 1740. It gives good blue colours, but
+is not very permanent. Darker colours by this method are more
+permanent than the paler ones. It does not dye cotton or linen.
+
+The other method is by the indigo vat process, which produces fast
+colours, but is complicated and difficult. In order to colour with
+indigo, it has to be deprived of its oxygen. The deoxydised indigo is
+yellow, and in this state penetrates the woollen fibre; the more
+perfectly the indigo in a vat is deoxydised, the brighter and faster
+will be the colour. For the dyeing of wool, the vats are usually
+heated to a temperature of 50Â°C. Cotton and linen are generally dyed
+cold.
+
+_Hellot_ says "when the vat, of whatsoever kind it be, is once
+prepared in a proper state, there is no difficulty in dyeing woollens
+or stuffs, as it is requisite only to soak them in clean warm water,
+to wring them, and then to immerse them in the vat, for a longer or
+shorter time, according as you would have the colour more or less
+deep. The stuff should be from time to time opened, that is to say,
+taken out and wrung over the vat and exposed to the air for a minute
+or two, till it becomes blue. For let your vat be what it will, the
+stuff will be green when taken out and will become blue when exposed
+to the air. In this manner it is very proper to let the colour change
+before you immerse your stuffs a second time, as you are thereby
+better enabled to judge whether they will require only one or several
+dips."--"The Art of Dyeing Wool," by _Hellot_.
+
+The colour of the blue is brightened by passing the wool through
+boiling water after it comes out of the dye. Indigo is a substantive
+dye and consequently requires no mordant.
+
+[13]1). TO MAKE EXTRACT OF INDIGO.--
+
+Put 2Â lbs. of oil of vitriol into a glass bottle or jar, stir into it
+8 oz. of powdered indigo, stirring briskly for Â½ hour, then cover up
+and stir 4 or 5 times a day for a few days, then add a little powdered
+chalk to neutralise the acid. It should be added slowly, little by
+little, as the chalk makes the acid bubble up. Keep it closely corked.
+
+2). TO MAKE EXTRACT OF INDIGO.--
+
+4 oz. sulphuric acid, Â½ oz. finely ground Indigo. Mix like mustard,
+and leave to stand over-night. Prepare the wool by mordanting with 5Â oz.
+alum to 1Â lb. wool. Boil for Â½ hour and dye without drying.
+
+3). TO DYE WOOL WITH INDIGO EXTRACT
+
+For 4 to 6Â lbs. of wool. Stir 2 to 3 oz. of Indigo extract into the
+water of the dye bath. The amount is determined by the depth of shade
+required. When warm, enter the wool, and bring slowly to boiling point
+(about Â½ hour) and continue boiling for another Â½ hour. By keeping it
+below boiling point while dyeing, better colours are got, but it is
+apt to be uneven. Boiling levels the colour but makes the shade
+greener. This is corrected by adding to the dye bath a little logwood,
+10 to 20 per cent. This should be boiled up separately, strained, and
+put in the bath before the wool is entered. Too much should be
+avoided however, as it dims the colour. It can be done in the same
+bath, but better results are got by separate baths. Instead of logwood
+a little madder is sometimes used; also Cudbear or Barwood.
+
+4). TO DYE SILK WITH INDIGO EXTRACT.
+
+Dye at a temperature of 40 to 50Â°C. in a bath with a little sulphuric
+acid and the amount of indigo as is needed for the colour. Another
+method is to mordant the silk first with alum by steeping it for 12
+hours in a solution of 25 per cent. and then, without washing, to dye
+with the Indigo Extract and about 10% of alum added to the dye bath.
+By this means compound colours can be made by the addition of
+cochineal, for purple, or old Fustic, Logwood, etc., for greys, browns
+and other colours.
+
+5). SAXON BLUE.--
+
+Put into a glazed earthen pot 4Â lbs. of good oil of vitriol with 12
+oz. of choice Indigo, stir this mixture very hastily and frequently in
+order to excite a fermentation. It is customary with some Dyers to put
+into this composition a little antimony or salt-petre, tartar, chalk,
+alum and other things, but I find it sufficient to mix the oil and
+Indigo alone, and the colours will be finer, for those neutral salts
+destroy the acid of the vitriol and sully the colour. In 24 hours it
+is fit for use. Then a copper of a good size is to be filled with fair
+water (into which one peck of bran is put in a bag) and made pretty
+warm, the bran after yielding its flower must be taken out, and the
+Chymie, (Indigo Extract) mixed well with water in a Piggin, (a small
+pot) is put in according to the shade required, having first put in a
+hand-ful of powdered tartar; the cloth is to be well wet and worked
+very quick over the winch (stick on which it is hung) for half an
+hour. The liquor must not be made hotter than for madder red (just
+under boiling point). The hot acid of the vitriol would cause the blue
+to incline to green if too much heat was given. (From an old Dye
+Book).
+
+6). TO MAKE UP A BLUE VAT.--
+
+Take 1Â lb. Indigo thoroughly ground, put this into a deep vessel with
+about 12 gallons of water, add 2Â lbs. copperas, and 3Â lbs. newly
+slaked lime, and stir for 15 minutes. Stir again after 2 hours and
+repeat every 2 hours for 5 or 6 times. Towards the end, the liquor
+should be a greenish yellow colour, with blackish veins through it,
+and a rich froth of Indigo on the surface. After standing 8 hours to
+settle, the vat is fit to use.
+
+7). TURQUOISE FOR WOOL.--
+
+Mordant with alum. For a pale shade use 1 teaspoonful of Indigo
+Extract (see No. 2) for 1Â lb. of wool. Boil Â¼ hour.
+
+8). BLUE FOR WOOL. (Highlands).
+
+Take a sufficiency of Indigo. (For medium shade about 1 oz. to every
+pound of wool). Dissolve it in about as much stale urine (about a
+fortnight old) as will make a bath for the wool. Make it lukewarm. Put
+in the wool and keep it at the same temperature till the dyeing is
+done. For a deep navy blue it will take a month, but a pale blue will
+be done in 3 or 4 days. Every morning and evening the wool must be
+taken out of the dye bath, wrung out and put back again. The bath must
+be kept covered and the temperature carefully attended to. Some add a
+decoction of dock roots the last day, which is said to fix the blue.
+The wool must then be thoroughly washed. This is a fast dye.
+
+9). INDIGO VAT. (For small dyers).
+
+Add to 500 litres of stale urine 3 to 4 kilos of common salt and heat
+the mixture to 50Â° to 60Â°C., for 4 to 5 hours with frequent stirring,
+then add 1 kilo of madder, 1 kilo of ground Indigo, stir well, and
+allow to ferment till the Indigo is reduced.
+
+10). SAXON BLUE. (_Berthollet_).
+
+Prepare the wool with alum and tartar. A smaller or greater proportion
+of the Indigo solution is put into the bath, (1 part of Indigo with 8
+parts of sulphuric acid, digested for 24 hours), according to the
+depth of shade wished to be obtained. For deep shades it is
+advantageous to pour in the solution by portions, lifting out the wool
+from the bath while it is being added. The cold bath acts as well as
+the hot.
+
+11). THE COLD INDIGO VAT WITH URINE.
+
+Take 4Â lbs. of powdered Indigo and put it into a gallon of vinegar,
+leaving it to digest over a slow fire for 24 hours. At the end of this
+time the Indigo should be quite dissolved. If not dissolved pound it
+up with some of the liquor adding a little urine. Put into it Â½Â lb.
+madder, mixing it well. Then pour it into a cask containing 60
+gallons of urine (fresh or stale). Mix and stir the whole together;
+this should be done morning and evening for 8 days or until the
+surface becomes green when stirred, and produces froth. It may be
+worked immediately without any other preparation than stirring it 3 or
+4 hours before-hand. This kind of vat is extremely convenient, because
+when once prepared it remains so always until it is entirely
+exhausted. According as you would have your vat larger or smaller you
+reduce or enlarge the amount of the ingredients used in the same
+proportion as the original. This vat is sooner prepared in summer than
+in winter.
+
+12). INDIGO VAT ON A SMALL SCALE FOR WOOLLENS AND COTTONS.--
+
+Have a strong 9 gallon cask, put into it 8 gallons of urine, have a 4
+quart pickle jar, into which put 1Â lb. ground Indigo and 3 pints of
+best vinegar; put the jar into a saucepan filled with water, and make
+it boil well for 2 hours, stirring it all the time. Let it stand in a
+warm place for 3 days, then pour it into the cask; rake it up twice a
+day for a month. It must be covered from the air.
+
+13). BLUE VAT FOR WOOLLENS.--
+
+For every 20 gallons of water add 5 oz. ground Indigo, 8 oz. of
+potash, 3 oz. madder, and 4 oz. bran. Keep the solution at 140Â°F.;
+after 24 hours the whole will have begun to ferment, then add 2 oz.
+madder, stir and allow the whole to settle, after which the vat is
+ready for use.
+
+14). TO DYE INDIGO BLUE. Urine Vat.--
+
+Prepare vat as follows:--To 3Â½ gallons of stale urine add 4Â½ oz. of
+common salt, and heat the mixture to 125Â°F. (as hot as the hand can
+bear). Keep at this heat for 4 to 5 hours, frequently stirring, then
+add 1Â¼ oz. thoroughly ground Indigo and 1Â¼ oz. Madder, stir well and
+allow to ferment till the Indigo is reduced. This is recognized by the
+appearance of the vat, which should be of a greenish yellow colour,
+with streaks of blue. Allow the vat to settle, when you can proceed
+with dyeing. Process of dyeing the same as in No. 15.
+
+15). TO DYE INDIGO BLUE.--Potash Vat.--
+
+Into a pot 3 parts full of water put 1Â½ oz. Madder and 1Â½ oz. bran.
+Heat to nearly boiling, and keep at this heat for 3 hours. Then add 5
+oz. Carbonate of Potash; allow Potash to dissolve and let the liquor
+cool down till luke-warm. Then add 5 oz. thoroughly ground Indigo,
+stir well and leave to ferment for two days, occasionally stirring,
+every 12 hours or so. Wool dyed in this vat must be thoroughly washed
+after the colour is obtained.
+
+_Process of Dyeing._--Into a vat prepared as above, dip the wool. Keep
+it under the vat liquor, gently moving about a sufficient time to
+obtain the colour required. A light blue is obtained in a few seconds,
+darker blues take longer. Take out wool, and thoroughly squeeze out of
+it all the dye liquor back into the vat. Spread out the wool on the
+ground, exposed to the air till the full depth of colour is developed.
+The wool comes out of the vat a greenish shade, but the oxygen in the
+air darkens it, through oxydation, to indigo blue. The wool should now
+be washed in cold water with a little acid added to it, and again
+thoroughly rinsed and dried.
+
+16). BLUE VAT FOR COTTON.--
+
+In a clean tub put 10 pails of water, slacken 1 bushel of lime into
+it, and cover while slackening; put 6Â lbs. ground Indigo in a pot and
+mix it into a paste with hot water and then put 4 pails of boiling
+water on to it, stir it, cover it, and leave it. In another pot, put
+20Â lbs. copperas, pour 4 pails of water on this, stir it and leave it
+covered. Pour 4 pails of water on the top of the lime that is
+slackening, rake it up well and put in the melted copperas; rake it
+well and put in the Indigo; stir well and leave covered for a couple
+of days, stirring occasionally. Half fill a new vat with the mixture.
+Rake it well and while you are raking, fill it up with clean water,
+continue raking for an hour. Cover it over; it can be used the next
+day. This is a colour that never washes out.
+
+17). GLOUCESTERSHIRE INDIGO VAT.
+
+Size 5 feet over the top: 7 feet deep, 6 to 7 feet at the bottom.
+
+Take Â½ cwt. bran, Â¼ peck lime and 40Â lbs. indigo. Warm up to 180 to
+200Â°F., rake it 4 times a day. If it ferments too much add more lime:
+if not enough, more bran. An experienced eye or nose will soon tell
+when it is ripe or fit to use, which should be in about 3 days.
+Regulate the strength of the vat from time to time to the colour
+required. No madder or woad is used when much permanency is wanted.
+
+18). COLD INDIGO VAT FOR DYEING WOOL, SILK, LINEN AND COTTON.
+
+1 part Indigo, 3 parts good quicklime, 3 parts English vitriol, and 1Â½
+parts of orpiment. The Indigo is mixed with water, and the lime added,
+stirred well, covered up, and left for some hours. The powdered
+vitriol is then added, and the vat stirred and covered up. After some
+hours the orpiment powder is thrown in and the mixture is left for
+some hours. It is then stirred well and allowed to rest till the
+liquid at the top becomes clear. It is then fit for dyeing.
+
+
+_WOAD_
+
+Woad is derived from a plant, _Isatis tinctoria_, growing in the North
+of France and in England. It was the only blue dye in the West before
+Indigo was introduced from India. Since then woad has been little used
+except as a fermenting agent for the indigo vat. It dyes woollen cloth
+a greenish colour which changes to a deep blue in the air. It is said
+to be inferior in colour to indigo but the colour is much more
+permanent. The leaves when cut are reduced to a paste, kept in heaps
+for about fifteen days to ferment, and then formed into balls which
+are dried in the sun; these have a rather agreeable smell and are of a
+violet colour. These balls are subjected to a further fermentation of
+9 weeks before being used by the dyer. When woad is now used it is
+always in combination with Indigo, to improve the colour. Even by
+itself, however, it yields a good and very permanent blue.
+
+It is not now known how the ancients prepared the blue dye, but it has
+been stated (Dr. Plowright) that woad leaves when covered with boiling
+water, weighted down for half-an-hour, the water then poured off,
+treated with caustic potash and subsequently with hydrochloric acid,
+yield a good Indigo blue. If the time of infusion be increased, greens
+and browns are obtained. It is supposed that woad was "vitrum," the
+dye with which CÃ¦sar said almost all the Britons stained their bodies.
+It is said to grow near Tewkesbury, also Banbury. It was cultivated
+till quite lately in Lincolnshire. There were four farms in 1896; one
+at Parson Drove, near Wisbech, two farms at Holbeach, and one near
+Boston. Indigo has quite superseded it in commerce.[14]
+
+"It is like the Indigo plant, but less delicate and rich. It is put in
+vats with Indigo and madder to dye a never-fading dark blue on wool,
+and was called woad-vats before Indigo was known." (Thomas Love). And
+again "Woad, or what is much stronger, pastel, always dyed the blue
+woollens of Europe until Indigo was brought over here."
+
+Bancroft says "Woad alone dyes a blue colour very durable, but less
+vivid and beautiful than that of Indigo."
+
+
+_LOGWOOD_
+
+(Bois de CampÃªche, Campeachy Wood)
+
+Logwood is a dye wood from Central America, used for producing blues
+and purples on wool, black on cotton and wool, and black and violet on
+silk. It is called by the old dyers, one of the Lesser Dyes, because
+the colour loses all its brightness when exposed to the air. But with
+proper mordants and with careful dyeing this dye can produce fast and
+good colours. Queen Elizabeth's government issued an enactment
+entirely forbidding the use of logwood. The act is entitled "An Act
+for the abolishing of certeine deceitful stuffe used in the dyeing of
+clothes," and it goes on to state that "Whereas there hath been
+brought from beyond the seas a certeine kind of stuff called logwood,
+alias blockwood, wherewith divers dyers," etc., and "Whereas the
+clothes therewith dyed, are not only solde and uttered to the great
+deceit of the Queene's loving subjects, but beyond the seas, to the
+great discredit and sclaunder of the dyers of this realme. For
+reformation whereof, be it enacted by the Queene our Soveraygne Ladie,
+that all such logwood, in whose handes soever founde, shall be openly
+burned by authoritie of the maior." The person so offending was liable
+to imprisonment and the pillory. This is quoted from "The Art of
+Dyeing," by James Napier, written in 1853. He goes on to say, "Upwards
+of eighty years elapsed before the real virtues of this dyeing agent
+were acknowledged; and there is no dyewood we know so universally
+used, and so universally useful." The principal use for logwood is in
+making blacks and greys. The logwood chips should be put in a bag and
+boiled for 20 minutes to Â½ hour, just before using. "Logwood is used
+with galls and copperas for the various shades of greys, inclining to
+slate, lavender, dove, and lead colour, etc. For this purpose you fill
+a cauldron full of clean water, putting into it as much nut galls as
+you think proper. You then add a bag of logwood, and when the whole is
+boiled, having cooled the liquor, you immerse the stuff, throwing in
+by degrees some copperas, partly dissolved in water."--Hellot. Hellot
+is very scornful of logwood, naming it as one of the lesser dyes, and
+not to be used by good dyers.
+
+
+_RECIPES FOR DYEING WITH LOGWOOD._
+
+1). BLACK FOR COTTON.--
+
+After washing, work the cotton in a cold infusion of 30% to 40% of
+Sumach, or its equivalent in other tannin matter[15] (ground gall
+nuts, myrobalans, etc.) and let steep over-night. Squeeze out and
+without washing pass through a bath containing a diluted solution of
+lime water, or soda. Work in a cold solution of copperas for Â½ hour,
+then back into the soda for a Â¼ hour at a temperature of 50Â° to 60Â°C.
+Then wash. Dye in a freshly made bath of logwood with a small
+proportion of old Fustic or Quercitron Bark. The cotton is introduced
+into the cold dye liquor and the temperature gradually raised to
+boiling. Boil for Â½ an hour. After dyeing, the cotton should be passed
+through a warm solution of Bichromate of Potash. (5 grains per litre).
+It is then washed and worked in a warm solution of soap and dried.
+More Fustic makes a greener black.
+
+When catechu is the tanning matter employed, the cotton should be
+worked in a boiling decoction of it and allowed to steep till cold.
+
+2). GREY DRAB FOR WOOL.
+
+(10Â lbs.) Dissolve Â½ oz. Bichromate of Potash in water, and then boil
+for Â½ hour; lift the wool and add 1 oz. logwood: boil for Â½ hour. Lift
+out, wash and dry.
+
+3). LOGWOOD GREY ON COTTON.
+
+The cotton is worked in a weak decoction of logwood at 40Â° to 50Â°C.,
+and then in a separate bath containing a weak solution of ferrous
+sulphate or Bichromate of Potash. Wash.
+
+4). GREEN BLACK FOR WOOL.--
+
+Mordant wool with 3% Bichromate of Potash and 1% Sulphuric acid (or
+4% Tartar) for 1 to 1Â½ hours. Then wash and dye with 35% to 50% of
+Logwood. This gives a blue black. It is greened by adding 5% old
+Fustic to the dye bath. The more Fustic the greener the black becomes.
+If 3% to 4% alum is added to the mordanting bath, a still greener
+shade is obtained. Sulphuric acid in the mordant produces a dead
+looking blue black. Tartar yields a bright bluish black.
+
+5). LOGWOOD BLUE FOR WOOL.
+
+Mordant the wool for 1 to 1Â½ hours at 100Â°C., with 4% alum and 4 to 5%
+cream of Tartar. Wash well and dye for 1 to 1Â½ hours at boiling
+point with 15 to 30% logwood and 2 to 3% chalk. This colour is not
+very fast, but can be made faster by adding 1 to 3% bichromate of
+potash and 1% sulphuric acid. The brightest logwood blues are
+obtained by dyeing just below boiling point. Long boiling dulls the
+colour.
+
+6). GREEN BLACK FOR WOOL.
+
+Mordant with 2% Chrome and 25% sulphuric acid. Boil 1Â½ hours and
+leave overnight. Dye with 40% logwood and 10% Fustic. Boil 1 hour.
+
+7). LOGWOOD BLUE FOR WOOL.
+
+Chrome 1%, Alum 3%, Tartar 1Â½%. Boil 1Â½ hours and leave over-night.
+Dye with logwood 20% and Cudbear 1%. Boil one hour, then throw in 20
+quarts of single muriate of tin, diluted with 20 to 30 gallons of
+water. Immerse 15 minutes and wash.
+
+8). FAST PURPLE FOR COTTON.
+
+(For 20Â lbs. cotton.) Mordant with copperas. Wash slightly; then a
+bath of muriate of tin. Dye with 4 to 5Â lbs. logwood.
+
+9). FAST BLACK ON WOOL.--
+
+Put wool into a strong logwood bath, the stronger the better, and boil
+for 1 hour. Take out and drain, and put into a Bichromate of Potash
+bath and keep at 150Â°F. for about 5 minutes. Then a bath of Fustic or
+Quercitron. After which wash well in cold water.
+
+10). BLACK FOR COTTON.--
+
+(For 10Â lbs.) Steep cotton in hot decoction of 3Â lbs. Sumach and let
+stay over night. Wring out and work for 10 minutes through lime water:
+then work for Â½ hour in a solution of 2Â lbs. copperas. It may be
+either washed from this, or worked again through lime water for 10
+minutes. Dye for Â½ hour in a warm decoction of 3Â lbs. logwood adding
+Â½Â pint chamber lye. Take out cotton and add to the same bath 2 oz.
+copperas. Work 10 minutes, then wash and dry. 1Â lb. Fustic is added
+for jet black.
+
+11). FAST BLACK FOR WOOLLENS.--
+
+(For 50Â lbs.) Mordant with 2Â lbs. chrome, 1Â lb. Tartar, 1 quart
+Muriate of Tin. Boil 1 hour and wash well. Dye with 25Â lbs. logwood
+and 3Â lbs. Fustic. Boil 30 minutes. Take out and add 1 pint Vitriol.
+Return for 10 minutes, wash and dry.
+
+12). JET BLACK FOR SILK.
+
+(For 50Â lbs.) Mordant in hot solution of Nitro-Sulphate of Iron at
+150Â°F., work for Â½ hour. Wash well, then boil up 18Â lbs. Fustic. Put
+off the boil, enter silk and work for 30 minutes. Take out. Boil 16
+lbs. logwood, put off the boil and decant the liquor into fresh bath,
+add 1Â lb. white soap, enter and work from 30 to 40 minutes. Wash
+well.
+
+13). LAVENDER FOR WOOL.
+
+(For 6Â¼Â lbs.) Mordant with 3 oz. Bichromate of Potash, for 45 minutes
+and wash. Dye with 2 oz. madder, 1 oz. logwood. Enter the wool, raise
+to the boil and boil for 45 minutes. The proportion of logwood to
+madder can be so adjusted as to give various shades of claret to
+purple.
+
+14). BLACK FOR WOOL.
+
+Mordant 6Â¼Â lbs. wool with 4 oz. Chrome. Boil for 45 minutes. Dye with
+50 oz. logwood, 1 oz. Fustic. Raise to boil and boil for 45 minutes.
+
+15). FAST CHROME BLACK FOR WOOL.
+
+(For 40Â lbs. wool.) Dissolve 3Â lbs. copperas and boil for a short
+time. Then dip the wool in this for Â¾ hour, airing frequently. Take
+out wool and make dye with 24Â lbs. logwood. Boil for Â½ hour. Dip Â¾
+hour, air wool, dip Â¼ hour longer and then wash in strong soap suds.
+
+16). LIGHT SILVER DRAB FOR WOOL.
+
+(For 50Â lbs. wool). Â½Â lb. logwood, Â½Â lb. alum. Boil well and enter
+wool and dip for 1 hour.
+
+17). A FAST LOGWOOD BLUE FOR WOOL.
+
+(Highland recipe). Mordant with 3% Bichromate of Potash and boil wool
+in it for 1Â½ hours. Wash and dry wool. Make a bath of 15 to 20%
+logwood with about 3% chalk added to it. Boil the wool for 1 hour,
+wash and dry. The wool can be greened by steeping it all night in a
+hot solution of heather, or boiling it in heather till the desired
+tint is obtained.
+
+18). GREEN BLACK FOR WOOL.
+
+(For 50Â lbs. wool). Boil 20 minutes with 1Â lb. chrome. Dye with 20
+lbs. Fustic, 8Â lbs. logwood. Boil for Â½ hour.
+
+19). SLATE PURPLE.
+
+(For 80Â lbs. yarn). Mordant with 2Â lbs. chrome for 20 minutes. Dye
+with 10Â lbs. logwood & 1Â lb. Cudbear. Boil for Â½ hour.
+
+20). RAVEN GREY FOR WOOL.
+
+(For 60Â lbs.) Dissolve 8 oz. Alum and work the wool very quickly for
+Â½Â hour at boiling heat; then take it out and add to the same liquor 3
+or 4Â lbs. copperas, & work it at boiling heat for Â½ hour. Then wash.
+In another copper, boil 1 pailfull of logwood chips for 20 minutes. Put
+the wool into this for Â½ hour; then return it into the alum and
+copperas for 10 to 15 minutes.
+
+21). DARK RED PURPLE WITH LOGWOOD FOR WOOL.--(For 2Â½Â lbs.)
+
+Mordant with 10 oz. alum and 2Â½ oz. cream of tartar for 1 hour. Let
+cool in the mordant, then wring out and put away for 4 or 5 days in a
+linen (or other) bag in the dark.
+
+Dye with 1Â lb. logwood, and Â½Â lb. madder. Boil up the logwood and
+madder in a separate bath and pour through a sieve into the dye bath.
+Enter the wool when warm and bring to boil. Boil from Â½ hour to 1Â½
+hours. Wash thoroughly.
+
+22). VIOLET WITH LOGWOOD FOR SILK.
+
+The silk is washed from the soap and drained. For every pound of silk,
+dissolve in cold water 1 oz. verdigris; when it is well mixed with the
+water, the silk is immersed and kept in this liquor for an hour. This
+does not give colour. It is then wrung & aired. A logwood liquor is
+then made; the silk dipped in it when cold; it takes a blue colour
+sufficiently dark. The silk is taken out and dipped in a clear
+solution of alum; it acquires a red which produces a violet on the
+silk just dyed blue. The quantity of alum is undetermined; the more
+alum the redder the violet. The silk is then washed.
+
+23). ORDINARY LOGWOOD PURPLE FOR WOOL.
+
+(For 1Â lb.) Mordant wool with Â¼Â lb. alum and Â½ oz. tartar for 1 hour;
+wring out and put away in a bag for some days. Dye with Â¼Â lb. logwood
+for 1 hour.
+
+
+FOOTNOTES:
+
+[12] Early dyers were particular as to the naming of their colours.
+Here is a list of blues, published in 1669.--"White blue, pearl blue,
+pale blue, faint blue, delicate blue, sky blue, queen's blue, turkey
+blue, king's blue, garter blue, Persian blue, aldego blue, and
+infernal blue."
+
+[13] I give here recipes for the simpler vats which can be used on a
+small scale. The more complicated recipes can only be done in a
+well-fitted dye house. I would refer the reader to those in "The Art
+of Dyeing" by Hellot, Macquer and D'Apligny, and "Elements of the Art
+of Dyeing" by Berthollet.
+
+[14] Woad, pastel and Indigo are used in some dye books to mean the
+same dye, and they evidently have very much the same preparation in
+making.
+
+[15] See page 36.
+
+
+
+
+CHAPTER VII.
+
+RED.
+
+KERMES, COCHINEAL, LAC-DYE, MADDER.
+
+
+_KERMES._
+
+Kermes, or Kerms, from which is got the "Scarlet of Grain" of the old
+dyers, is one of the old insect dyes. It is considered by most dyers
+to be the first of the red dyes, being more permanent than cochineal
+and brighter than madder. In the 10th century it was in general use in
+Europe. The reds of the Gothic tapestries were dyed with it, and are
+very permanent, much more so than the reds of later tapestries, which
+were dyed with cochineal. Bancroft says "The Kermes red or scarlet,
+though less vivid, is more durable than that of cochineal. The fine
+blood-red seen at this time on old tapestries in different parts of
+Europe, unfaded, though many of them are two or three hundred years
+old, were all dyed from Kermes, with the aluminous basis, on woollen
+yarn."
+
+Kermes consists of the dried bodies of a small scale insect, _Coccus
+ilicis_, found principally on the ilex oak, in the South of Europe. It
+is said to be still in use in Italy, Turkey, Morocco and other places.
+
+William Morris speaks of the "Al-kermes or coccus which produces with
+an ordinary aluminous mordant a central red, true vermilion, and with
+a good dose of acid a full scarlet, which is the scarlet of the Middle
+Ages, and was used till about the year 1656, when a Dutch chemist
+discovered the secret of getting a scarlet from cochineal by the use
+of tin, and so produced a cheaper, brighter and uglier scarlet."
+
+Kermes is employed exactly like cochineal. It has a pleasant aromatic
+smell which it gives to the wool dyed with it.
+
+The following recipe for its use is from an old French dye book:--
+
+20Â lbs. of wool and Â½ a bushel of bran are put into a copper with a
+sufficient quantity of water, and suffered to boil half-an-hour,
+stirring every now and then. It is then taken out to drain. While the
+wool is draining the copper is emptied and fresh water put in, to
+which is added about a fifth of sour water, four pounds of Roman Allum
+grossly powdered and two pounds of red Tartar. The whole is brought to
+boil, and that instant the hanks are dipped in, which are to remain in
+for two hours, stirring them continually. When the wool has boiled two
+hours in this liquor, it is taken out, left to drain, gently squeezed
+and put into a linen bag in a cool place for five or six days and
+sometimes longer. This is called leaving the wool in preparation.
+After the wool has been covered for five or six days, it is fitted to
+receive the dye. A fresh liquor is then prepared, and when it begins
+to be lukewarm, take 12 oz. of powdered Kermes for each pound of wool
+to be dyed, if a full and well coloured scarlet is wanted. If the
+Kermes was old and flat, a pound of it would be required for each
+pound of wool. When the liquor begins to boil, the yarn, still moist,
+(which it will be, if it has been well wrapped in a bag and kept in a
+cool place) is put in. Previous to its being dipped in the copper with
+the Kermes, a handful of wool is cast in, which is let to boil for a
+minute. This takes up a kind of scum which the Kermes cast up, by
+which the wool that is afterwards dipped, acquires a finer colour. The
+handful of wool being taken out, the prepared is put in. The hanks are
+passed on sticks continually stirring and airing them one after the
+other. It must boil after this manner an hour at least, then taken out
+and placed on poles to drain, afterwards wrung and washed. The dye
+still remaining in the liquor may serve to dip a little fresh parcel
+of prepared wool; it will take some colour in proportion to the
+goodness and quality of the Kermes put into the copper.
+
+_Another Recipe for Dyeing with Kermes._--The wool is first boiled in
+water along with bran for half-an-hour (Â½ bushel of bran for 20Â lbs.
+of wool) stirring it from time to time. Drain. Next boil for 2 hours
+in a fresh bath with a fifth of its weight of alum and a tenth of
+Tartar. Sour water is usually added. It is then wrung, put into a bag
+and left in a cool place for some days. The Kermes is then thrown into
+warm water in the proportion of 12 oz. to every pound of wool. When
+the liquor boils, a handful of waste wool is thrown in, to take up the
+dross of the Kermes, and removed. The wool is then put in and boiled
+for an hour. It is afterwards washed in warm water in which a small
+quantity of soap has been dissolved. Then washed and dried.
+
+     "To prepare wool for the Kermes dye, it is to be boiled in
+     water with about â
+ of its weight in alum, and half as
+     much of Tartar, for the space of two hours and afterwards
+     left in the same liquor four or five days, when being
+     rinsed, it is to be dyed in the usual way with about 12
+     oz. of Kermes for every pound of wool. Scarlets, etc.,
+     given from Kermes, were called grain colours, because that
+     insect was mistaken for a grain. Wool prepared with a
+     nitro-muriatic solution of tin (as is now practised for
+     the cochineal scarlet) and dyed with Kermes takes a kind
+     of aurora, or reddish orange colour."--Bancroft.
+
+
+_COCHINEAL_
+
+The dried red bodies of an insect (_Coccus Cacti_) found in Mexico are
+named Cochineal.
+
+
+RECIPES FOR DYEING.
+
+1). SCARLET FOR WOOL.
+
+For each pound of wool put 20 quarts of water. When the water is warm,
+add 2 oz. Cream of Tartar, 1Â½ drachms of powdered Cochineal. When the
+liquor is nearly boiling, put in 2 oz. of Solution of Tin (which the
+Dyers call Composition for Scarlet). As soon as it begins to boil, the
+wool, which has been wetted, is dipped and worked in the liquor for an
+hour and a half. A fresh liquor is then prepared, 1Â½ oz. of starch is
+put in and when the water is warm 6Â½ drachms of Cochineal. When nearly
+boiling 2 oz. of solution of tin is put in. It must boil, and then the
+wool is put in and stirred continually for 1Â½ hours. It is then taken
+out, wrung and washed. The Scarlet is then in its Perfection.
+
+2). COCHINEAL FOR COTTON.
+
+Prepare 50Â lbs. of cotton with 15Â lbs. Sumach, 10Â lbs. Alum. Dye with
+2Â¼Â lbs. of Cochineal. Leave for 24 hours in the Sumach; lift; winch 2
+to 3 hours in a hot solution of Alum; wash in two waters, then boil up
+the cochineal; put off the boil, enter cotton & winch till colour be
+full enough; then wash and dry.
+
+3). ORANGE RED FOR WOOL.
+
+     1). Mordant wool with Alum.
+
+     2). Dye in a bath of weak Fustic. Wash and Dry.
+
+     3). Put into cold water, Cream of Tartar, Tin, Pepper and
+     Cochineal. When warm, enter the wool and boil.
+
+4). PINK WITH COCHINEAL FOR WOOL.
+
+(For 60Â lbs. wool). 5Â lbs. 12 oz. alum. Boil and immerse wool for 50
+minutes. Then add 1Â lb. Cochineal and 5Â lbs. cream of tartar. Boil and
+enter wool while boiling, till the required colour is got.
+
+5). SCARLET FOR WOOL.
+
+(For 100Â lbs.) 6Â lbs. of Tartar are thrown into the water when warm.
+The bath is stirred briskly and when hot Â½Â lb. powdered cochineal is
+added and well mixed. Then 5Â lbs. of clear solution of Tin is
+carefully mixed in. When it is boiling the wool is put in and moved
+briskly. After 2 hours it is taken out, aired and washed.
+
+The second bath. When the water is nearly boiling 5Â¾Â lbs. of powdered
+cochineal is put in. A crust will form on the surface which will open
+in several places. Then 13 to 14Â lbs. of solution of tin is poured in.
+After this is well mixed, the wool is entered and stirred well. Boil
+for an hour, then wash and dry.
+
+These two processes can be done together with good result. The colour
+can be yellowed by fustic or turmeric. More tartar in the second bath
+increases the colour. The scarlet may be brightened by common salt.
+Alum will change the scarlet to crimson, the wool being boiled in a
+solution of it for one hour.
+
+6). CRIMSON FOR WOOL.
+
+Mordant with 2Â½ oz. alum and 1Â½ oz. tartar for everyÂ lb. of wool. Then
+dye with 1 oz. cochineal. Solution of tin is sometimes added. Also
+salt.
+
+7). VIOLET FOR WOOL.
+
+Mordant with 2 oz. alum for 1Â lb. wool. Dye with 1 oz. cochineal and 1
+oz. of solution of iron in which the wool is kept till the shade is
+reached.
+
+8). SCARLET WITH COCHINEAL, FOR WOOL.
+
+(For 100 oz. clean wool). Put 6 oz. Oxalic acid, 6 oz. Stannous
+Chloride (Tin Crystals), 8 oz. powdered cochineal in a bath containing
+about half the quantity of water required to cover wool. Boil 10
+minutes, then add sufficient water to cover wool. Enter the wool, work
+well in the dye and boil for Â¾ hour, after which take out the wool,
+wash and dry.
+
+9). PURPLE, FOR WOOL.
+
+(For 2Â½Â lbs. wool). Mordant with Bichromate of Potash, 1Â½ oz. in 10
+gallons of water. Dye with 6 to 8 oz. cochineal. With alum mordant (4
+oz.) a crimson colour is got. With tin mordant (2 oz.) a scarlet. With
+iron mordant (2 oz.) a purplish slate or lilac.
+
+10). SCARLET, FOR WOOL.
+
+Mordant the wool for 1 to 1Â½ hours with 6% stannous chloride and 4%
+cream of tartar. Wash. Dye with 5 to 12% of ground cochineal for 1 to
+1Â¼ hours. To dye the wool evenly, enter it in both the mordant and the
+dye when the water is warm, and raise gradually to boiling.
+
+11). SCARLET, FOR WOOL.
+
+Fill the dye bath half full of water, add 6 to 8% of Oxalic acid, 6%
+of stannous chloride and 5 to 12 per cent. ground cochineal, boil up
+for 5 to 10 minutes, then fill up the dye bath with cold water.
+Introduce the wool, heat up the bath to the boiling point in the
+course of Â¾ to 1 hour and boil Â½ hour. Washing between mordanting and
+dyeing is not absolutely essential. The addition of tartar up to 8 per
+cent. increases the intensity and yellowness of the colour.
+
+In order to obtain bright yellow shades of scarlet it is usual to add
+a small proportion of some yellow dye to the bath.
+
+Wool mordanted with 10 per cent. of Copper sulphate and dyed in a
+separate bath with cochineal gives a reddish purple, or claret colour.
+
+With ferrous sulphate as mordant very good purplish slate or lilac
+colours can be got. Mordant and dye in separate baths. Use 8 per cent.
+of ferrous sulphate and 20 per cent. of tartar.
+
+12). CRIMSON FOR SILK.
+
+Mordant the silk by working for Â½ hour in a concentrated solution of
+alum, then leave to steep over night. Wash well and dye in a fresh
+bath containing 40 per cent. of cochineal. Enter the silk at a low
+temperature and heat gradually to boiling.
+
+13). SCARLET FOR SILK.
+
+After boiling and washing, the silk is first slightly dyed with yellow
+by working it for Â¼ hour at 50Â°C., in a weak soap bath containing
+about 10 per cent. of Annatto; it is then well washed. Mordant the
+silk by working it for Â½ hour, then steeping it over night in a cold
+solution of 40 per cent. of nitro-muriate of tin. Wash and dye in a
+fresh bath with a decoction of 20 to 40 per cent. of cochineal and 5
+to 10 per cent. cream of tartar. Enter the silk at a low temperature
+and heat gradually to boiling. Brighten in a fresh bath of cold water,
+slightly acidified with tartaric acid. Good results can also be
+obtained with the single bath method with cochineal, stannous chloride
+and oxalic acid.
+
+With the use of iron mordants very fine shades of lilac may be
+obtained on silk with cochineal.
+
+
+_LAC DYE._
+
+Like Cochineal and Kermes, Lac is a small scale insect, _Coccus
+lacca_. It is found in India, Burmah and other Eastern countries; it
+was introduced into England in 1796.
+
+The method of dyeing with lac is very much the same as with cochineal;
+it yields its colour less readily however, and should be ground into a
+paste with the tin solution employed and a little hydrochloric acid
+and allowed to stand for a day before using. It is said to be a faster
+dye than cochineal, but is often used in combination with it, being a
+fuller colour though not so bright.
+
+A good fast scarlet is produced by the following recipe:--For 100Â lbs.
+wool. 8Â lbs. lac, previously ground up with part of the tin spirits, 5
+lbs. cochineal, 5Â lbs. tartar, 20Â lbs. tin spirit.
+
+
+_MADDER._
+
+Madder consists of the ground up dried roots of a plant, (Rubia
+tinctorum) cultivated in France, Holland, and other parts of Europe,
+as well as in India. Madder is not much used for silk dyeing, but for
+wool, linen and cotton it is one of the best dyes. It is also used
+largely in combination with other dyes to produce compound colours.
+When used for cotton the colour is much improved by boiling in a weak
+solution of soap after the dyeing. The gradual raising of the
+temperature of the dye bath is essential in order to develop the full
+colouring power of madder; long boiling should be avoided, as it dulls
+the colour. If the water is deficient in lime, brighter shades are got
+by adding a little ground chalk to the dye bath, 1 to 2 per cent.
+
+Berthollet distinguishes two kinds of madder red on cotton, one of
+which is given in No. 4. The other is the well-known Turkey red or
+Adrianople red, a very difficult and complicated dye, but one of the
+most permanent dyes known. Madder reds are said to be not so beautiful
+as those from Kermes, lac or cochineal, but my experience has been
+that with care, the finest reds can be got with madder.
+
+Birch leaves are used in Russia to improve the colour of madder. They
+are added to the dye bath.
+
+
+RECIPES FOR USE OF MADDER.
+
+1). RED FOR WOOL.
+
+For 100 oz. (6Â¼Â lbs.) wool.
+
+Mordant 8 oz. Alum and 2 oz. Tartar. Boil the wool in the mordant for
+one hour and wash in cold water. Dye: 50 oz. Madder. Enter the
+mordanted wool, raise to boil and boil gently for one hour. Wash
+thoroughly in cold water and dry. If the water is very soft, a small
+quantity of lime or chalk added to the dye bath improves the shade.
+Alder bark or alder leaves added to the dye bath darkens the colour.
+The best results are obtained when the dye bath is maintained just
+under the boiling point.
+
+2). REDDISH BROWN FOR WOOL.
+
+Mordant with 3% bichromate of potash and dye with Madder. Good
+results can be got by the single bath method. (See page 14, No. 3.)
+
+3). BROWNISH RED FOR WOOL.
+
+Mordant the wool with 6 to 8 per cent. of alum and 5 to 7 per cent. of
+tartar. Dye with 60 to 80% of Madder. Begin the dyeing at about
+40Â°C., and raise the temperature of the bath gradually to 80Â° to
+100Â°C., in the course of an hour, and continue the dyeing about an
+hour. Wash and dry. The colour can be brightened by adding a small
+proportion of stannous chloride to the mordant or it can be added to
+the dye bath towards the end of the dyeing.
+
+Brighter shades are got by keeping the temperature at about 80Â°C., and
+prolonging the dyeing process. After dyeing, the colour can be
+brightened by working the wool at 70Â°C., in a weak soap bath, or a
+bath containing bran.
+
+4). BRIGHT RED FOR COTTON.[16]
+
+(For 22Â lbs.). The cotton must be scoured, then galled in the
+proportion of 1 part of nut galls to 4 of cotton, and lastly alumed in
+the proportion of 1 of alum to 4 of cotton. To the solution of alum is
+added one twentieth of solution of soda ley (Â½Â lb. ordinary soda to 1Â¾
+pints water). It is then dried slowly and alumed again. Then dried
+slowly again. The more slowly the drying takes place the better the
+colour. The cotton is then ready to be dyed.
+
+Heat the water of the dye bath as hot as the hand can bear; mix in
+6Â½Â lbs. madder and stir carefully. When thoroughly mixed, put in the
+cotton & work for Â¾ hour without boiling. Take it out & add about a
+pint of soda ley. The cotton is then returned to the bath and boiled
+for 15 to 20 minutes. It is then brightened by passing it quickly
+thro' a tepid bath with a pint of ley in it. It is then washed and
+dried.
+
+5). BRIGHT ORANGE RED FOR WOOL.
+
+For 1Â lb. scoured fleece, mordant with 4 oz. alum and 1 oz. cream of
+tartar. Dissolve the mordant, enter the wool and raise to boiling
+point and boil for 1 hour. Allow the wool to cool in the mordant. Then
+wring out and put in a linen bag in a cool place for 4 or 5 days. Soak
+8 oz. madder over night in water and boil up before using. Put into
+dye bath, enter wool when warm, bring gradually to the boil and boil
+for Â¾ hour.
+
+6). BRIGHT RED FOR WOOL.
+
+Mordant 1Â lb. wool with 5 oz. of Alum, and 1 oz. of Tartar; leave to
+drain and then wring out; put into a linen bag and leave in a cool
+place for several days. (The wool should still be damp when taken out
+to dye; if it is dry, damp with warm water). If the Tartar is
+increased a cinnamon colour is got. Dye with Â½Â lb. of madder for every
+pound of wool. The water should not boil, but kept just below boiling
+for an hour; then boil up for 5 minutes before taking out and washing.
+
+With sulphate of copper as a mordant, madder gives a clear brown
+bordering on yellow (one part of sulphate of copper and 2 parts of
+madder).
+
+7). RED FOR SILK.
+
+The silk is mordanted over night with alum, by steeping it in a cold
+concentrated solution; wash well and dye in a separate bath with 50
+per cent. of madder. Begin dyeing at a low temperature and gradually
+raise to 100Â°C. The addition of bran tends to give brighter colours. A
+small quantity of Sumach could be added if a fuller colour is wanted.
+After dyeing, wash and then brighten in a boiling solution of soap, to
+which a small percentage of stannous chloride has been added.
+Afterwards wash well.
+
+By mordanting with Copperas, either alone or after an Alum bath,
+violet and brown shades can be got.
+
+8). RED WITH MADDER FOR WOOL.
+
+Pound up carefully without heating some roots of madder. Mordant the
+wool with Alum, adding some cayenne pepper. Dye with the madder,
+adding cream of tartar to the dye bath. Birch leaves improve the
+colour.
+
+9). MADDER RED FOR COTTON.
+
+Take a piece of white cotton, about 20 yards. Melt in some water 1Â lb.
+of potash; boil the cotton in this for 20 minutes, then rinse it. Put
+4Â lbs. of the best Sumach in the copper and fill it up with boiling
+water, and boil for 10 minutes. Put to cool and work the cotton well
+in this for an hour. Take it out and give it a scalding hot alum and
+sugar of lead bath for half-an-hour; rinse in two waters; put it back
+in the sumach for half-an-hour; then alum again for 20 minutes. Rinse.
+Put 2Â lbs. of madder into hot water and boil gently for a few minutes.
+Put in the cotton, work well and boil for half-an-hour gently. After,
+give it a hot alum for 20 minutes, and rinse. Put 1Â lb. fresh madder
+in the copper, put in the cotton and boil for 20 minutes. Then wash.
+
+10). RED FOR COTTON.
+
+Scour the cotton. Then gall in the proportion of 1 of gall nuts to 4
+of cotton. Then alum in the proportion of 1 of alum to 4 of cotton,
+with a little soda and tartar added. Dissolve the alum, etc., and put
+in the cotton, and boil half-an-hour. Cool down and ring out. Then dry
+slowly. Repeat the aluming. Put madder into water and when hot dip in
+cotton for Â½ hour, keeping it under boiling point, then boil up for Â¼
+hour and wash. Dry.
+
+11). MADDER RED FOR COTTON & LINEN.
+
+(For 1Â lb.) 1st Mordant.--Boil 1 oz. ground gall nuts in 5 quarts of
+water for Â½ hour. Put in thread and soak for 24 hours. Dry.
+
+2nd Mordant.--Melt 2 oz. of alum, â
+ oz. of Turmeric, and Â½ oz. of
+gum Arabic in two quarts of water, over a slow fire. Let cool. Melt 1
+oz. soda, 1 oz. arsenic, Â¼ oz. potash (crushed) in a bath, and when
+dissolved, add the alum, turmeric and gum Arabic mixture. Stew Â½ hour.
+Put in thread, which should be covered with the liquid, and let it
+soak for 24 hours. Dry.
+
+1st. Bath.--Put 2 oz. Madder into 10 quarts of water, heat up to
+boiling but do not let it boil. Put in thread and stir well for 1
+hour.
+
+2nd. Bath.--Put 3 oz. Madder in 10 quarts of water; treat as in first
+bath, from which the thread should be taken and put straight into the
+2nd. bath. Stir for 1 hour. Soak for 24 hours; wash and dry.
+
+3rd. Bath.--Put 3 oz. Madder in 10 quarts water; repeat the process
+described for 2nd. bath. The thread should be washed in cold water &
+lastly in warm water in which a little soft soap has been dissolved.
+When drying do not wring the skeins as this is likely to make the
+colour uneven.
+
+There are a few other red dyes of minor importance which should be
+mentioned.
+
+_BRAZIL WOODS_, various leguminous trees, including lima, sapan and
+peach wood, dye red with alum and tartar, and a purplish slate colour
+with bichromate of potash. They are not fast colours.
+
+Some old dyers used Brazil wood to heighten the red of madder.
+
+_CAMWOOD_, _BARWOOD_, _SANDALWOOD or SANDERSWOOD_, are chiefly used in
+wool dyeing, with other dye woods such as Old Fustic, and Logwood for
+browns. They dye good but fugitive red with bichromate of potash, or
+alum.
+
+_RED from LADIES BEDSTRAW._
+
+The crushed roots of this plant are used. Mordant the wool with either
+alum or bichromate of potash. The red with alum is an orange red, with
+chrome, a crimson red. Make the dye bath with 30 to 50% of bedstraw
+roots and boil the mordanted wool in it for an hour.
+
+_RED for COTTON._
+
+For 10Â lbs. cotton boil 3Â lbs. Sumach, let the cotton steep in this
+over night: wring out and work in red spirits (1 gill to a gallon of
+water). Wring out and wash well. Boil up 3Â lbs. limawood (or Brazil or
+Peach wood) and 1Â lb. fustic. Work the cotton in this Â½ hour, as warm
+as the hand can bear; add 1 gill red spirits and work 15 minutes
+longer. Wash.
+
+
+FOOTNOTE:
+
+[16] This recipe can also be used for linen, but linen takes the
+colour less easily than cotton, and should have the various operations
+repeated as much as possible.
+
+
+
+
+CHAPTER VIII.
+
+YELLOW.
+
+WELD. OLD FUSTIC. TURMERIC. QUERCITRON. DYER'S BROOM. HEATHER,
+AND OTHER YELLOW DYES.
+
+
+"There are ten species of drugs for dyeing yellow, but we find from
+experience that of these ten there are only five fit to be used for
+the good dye--viz. Weld, savory, green wood, yellow wood and
+fenugrec". "Weld or wold yields the truest yellow, and is generally
+preferred to all the others. Savory and green wood, being naturally
+greenish, are the best for the preparation of wool to be dyed green:
+the two others yield different shades yellow".--Hellot.
+
+
+_WELD_
+
+Weld, _Reseda luteola_, an annual plant growing in waste sandy places.
+The whole plant is used for dyeing except the root. It is the best and
+fastest of the yellow natural dyes.
+
+     Hellot's directions for dyeing with weld are the
+     following:--"Allow 5 or 6Â lbs. of weld to every pound of
+     stuff: some enclose the weld in a clean woollen bag, to
+     prevent it from mixing in the stuff; and to keep the bag
+     down in the copper, they put on it a cross of heavy wood.
+     Others hold it in the liquor till it has communicated all
+     its colour, and till it falls to the bottom: the stuff is
+     then suspended in a net, which falls into the liquor, but
+     others, when it has boiled, take out the weld with a rake
+     and throw it away."
+
+The plant is gathered in June and July, it is then carefully dried in
+the shade and tied up into bundles. When needed for dyeing it is
+broken up into pieces or chopped finely, the roots being discarded and
+a decoction is made by boiling it up in water for about Â¾ hour. It
+gives a bright yellow with alum and tartar as mordant. With chrome it
+yields an old gold shade; with tin it produces more orange coloured
+yellows; with copper and iron, olive shades. The quantity of weld used
+must be determined by the depth of colour required. The dye bath is
+prepared just before dyeing, the chopped weld being put into weighted
+bags and boiled in soft water for Â½ to 1 hour. 2% of Stannous
+chloride added to the mordant gives brilliancy and fastness to the
+colour. Bright and fast orange yellows are got by mordanting with 8%
+Stannous chloride instead of alum. With 6% copper sulphate and 8%
+chalk, weld gives a good orange yellow. Wool mordanted with 4% of
+ferrous sulphate and 10% tartar and dyed in a separate bath with weld
+with 8% chalk, takes a good olive yellow. 8% of alum is often used
+for mordant for weld. The dye bath should not be above 90Â°C. It is
+good to add a little chalk to the dye bath as it makes the colour more
+intense, while common salt makes the colour richer and deeper.
+
+     "Woollen dyers frequently add a little stale urine or lime
+     and potash to the water in which it is boiled. They
+     commonly employ 3 or 4 oz. of alum and one of tartar for
+     each pound of the wool. Tartar is supposed to render the
+     yellow colour a little more clear and
+     lively."--Bancroft.
+
+Weld is of greater antiquity than most, if not all other natural
+yellow dyes. It is cultivated for dyeing in France, Germany and Italy.
+It is important for the silk dyer, as it dyes silk with a fast colour.
+The silk is mordanted in the usual way with alum, washed and dyed in a
+separate bath of 20 to 40% weld, with a small quantity of soap added.
+After dyeing, the colour is brightened by working the silk for 10
+minutes in a fresh soap bath with a little weld added to it. Wring out
+without washing.
+
+
+RECIPES FOR DYEING WITH WELD.
+
+1). YELLOW FOR SILK.
+
+Scour the silk in the proportion of 20Â lbs. soap to 100Â lbs. of silk.
+Afterwards alum and wash. A bath is made of 2 parts weld for 1 of
+silk, and after Â¼ hour's boiling, it is filtered through a cloth into
+another bath. When this bath is cooled a little, the silk is immersed
+and turned about till dyed. The weld is in the meantime boiled up
+again with a little pearl ash, and after being strained, it is added
+to the first bath (part of the first bath having been thrown away)
+until the desired colour is got. The bath must not be too hot. If more
+golden yellows are wanted, add some annotto to the second bath.
+
+2). YELLOW FOR COTTON.
+
+Scour the cotton in a lixivium of wood ashes, wash and dry. It is
+alumed with Â¼ of its weight of alum. After 24 hours it is taken out of
+the bath and dried without washing. A weld bath is prepared with 1Â¼
+parts weld to 1 of cotton, and the cotton dipped in till the shade is
+got. It is then worked in a bath of sulphate of copper (Â¼ copper to 1
+of cotton) for 1Â½ hours. It is next thrown, without washing, into a
+boiling solution of white soap (Â¼ soap to 1 cotton). It is boiled for
+1 hour, then washed and dried.
+
+3). DEEP YELLOW FOR COTTON OR LINEN.
+
+2Â½ parts of weld for 1 of cotton, with a little copper sulphate added
+to the bath. The cotton is well worked in this till the cotton has the
+desired colour. It is then taken out and a little soda ley is poured
+in. It is returned and worked in this for Â¼ hour, then washed and
+dried.
+
+4). OLD GOLD FOR WOOL.
+
+Mordant with 2% chrome and dye with 60% of weld in a separate bath.
+3% of chalk adds to the intensity of colour.
+
+5). YELLOW FOR WOOL.
+
+Boil wool with 4% of alum for 1 to 2 hours, and dye in a separate
+bath of 50 to 100% weld for 20 minutes to an hour at 90Â°C.
+
+6). YELLOW FOR WOOL.
+
+Mordant with alum and tartar, and dye with 5 or 6Â lbs. of weld for
+everyÂ lb. of wool. Common salt deepens the colour. If alum is added to
+the dye bath, the colour becomes paler and more lively. Sulphate of
+iron inclines it to brown.
+
+7). WELD YELLOW FOR SILK.
+
+Work the silk (1Â lb.) for an hour in a solution of alum, 1Â lb. to the
+gallon, wring out and wash in warm water. Boil 2Â lbs. weld for Â½ hour;
+strain and work the silk in this for Â½ hour. Add 1 pint alum solution
+to the weld bath and return the silk; work ten minutes, wring out and
+dry.
+
+
+_OLD FUSTIC._
+
+Fustic is the wood of _Morus tinctoria_, a tree of Central America. It
+is used principally for wool. It does not produce a fast dye for
+cotton. With Bichromate of Potash as mordant, Old Fustic gives old
+gold colour. With alum it gives yellow, inclining to lemon yellow. The
+brightest yellows are got from it by mordanting with Tin. With copper
+sulphate it yields olive colours. (4 to 5% copper sulphate and 3 to 4%
+tartar). With ferrous sulphate, darker olives are obtained (8%
+ferrous sulphate). For silk it does not produce as bright yellows as
+weld, but can be used for various shades of green and olive. Prolonged
+dyeing should always be avoided, as the yellows are apt to become
+brownish and dull. The chips should be tied up in a bag and boiled for
+Â½ hour before using. It is still better to soak the wood over-night,
+or boil up in a small vessel and strain into the dye bath. The
+proportion of Fustic to be used for a good yellow is 5 to 6 parts to
+16 parts of wool.
+
+
+RECIPES FOR DYEING WITH OLD FUSTIC.
+
+1). OLD GOLD FOR WOOL. Boil the wool with 3 to 4% Chrome for 1 to 1Â½
+hours. Wash, and dye in a separate bath for 1 to 1Â½ hours at 100Â°C.
+with 20 to 80% of Old Fustic.
+
+2). LIGHT YELLOW FOR SILK. Work the silk for Â¼ to Â½ hour at 50Â° to
+60Â°C. in a bath containing 16% alum and a decoction of 8 to 16% of
+old Fustic. For dark yellow the silk is mordanted with alum, washed
+and dyed for about an hour at 50Â°C., with 50 to 100% of Fustic. The
+colour can be made faster and brighter by working the silk in a cold
+solution of nitro-muriate of Tin for an hour.
+
+3). BRIGHT YELLOW FOR WOOL. Mordant wool with 8% of stannous chloride
+for 1 to 1Â½ hours, and 8% of tartar. Wash, and dye with 20 to 40% of
+Fustic at 80Â° to 100Â°C. for 30 to 40 minutes.
+
+4). OLD GOLD FOR WOOL. Mordant 6Â¼Â lbs. (100 oz.) wool with 3 oz.
+chrome, for Â¾ hour and wash. Dye with 24 oz. Fustic & 4 oz. madder for
+45 minutes.
+
+5). YELLOW FOR WOOL. Mordant 6Â¼Â lbs. wool with 3 oz. chrome, for Â¾
+hour and wash. Dye with 6 oz. Fustic, 2 drachms logwood. Boil Â¾ hour.
+
+6). BRIGHT YELLOW FOR WOOL. (Single bath method). Fill the dye bath
+Â½Â full of water, add 2% oxalic acid, 8% stannous chloride, 4% tartar
+and 40 per cent. of Fustic. Boil up for 5 or 10 minutes, then fill the
+bath with cold water. Put in the wool & heat up the bath to boiling in
+the course of Â¾ to 1 hour, & boil for Â½ hour.
+
+7). YELLOW FOR WOOL. (Single bath). 4% stannous chloride, 4% oxalic
+acid and 50% Fustic.
+
+8). YELLOW FOR SILK. (5Â lbs.) Work the silk through an alum solution
+of 1Â lb. to a gallon of water. Wash in warm water. Boil 2Â lbs. Fustic
+for Â½ hour in water and in this work the silk for Â½ hour. Lift and add
+1 pint of the alum solution. Work 10 minutes longer, then wash and
+dry.
+
+9). FUSTIC YELLOW FOR SILK. (5Â lbs.) Alum the silk. Boil up 3Â lbs.
+Fustic and work silk in it while hot for Â½ hour. Lift, add 2 oz. red
+spirits. Work for 15 minutes. Wash out in cold water. Work 10 minutes
+in a soap solution. Wring out and dry.
+
+10). BUFF COLOUR ON WOOL. (45Â lbs.) Boil 4Â½Â lbs. Fustic and 1Â½Â lbs.
+madder. Add 7Â lbs. alum and boil up together. Allow to cool a little,
+enter wool and boil for Â½ hour.
+
+11). YELLOW FOR WOOL. Mordant with alum and tartar. Solution of tin
+increases the colour; salt makes it deeper. 5 or 6 oz. Fustic for
+every pound of wool.
+
+
+_TURMERIC_
+
+Turmeric is a powder obtained from the ground up tubers of _Curcuma
+tinctoria_, a plant found in India and other Eastern countries. It
+gives a brilliant orange yellow, but it has little permanence. It is
+one of the substantive colours and does not need any mordant. Cotton
+has a strong attraction for it, and is simply dyed by working in a
+solution of Turmeric at 60Â°C. for about Â½ hour. With silk and wool it
+gives a brighter colour if mordanted with alum or tin. Boiling should
+be avoided. It is used sometimes for deepening the colour of Fustic or
+Weld, but its use is not recommended as although it gives very
+beautiful colours, it is a fugitive dye. As Berthollet says "The shade
+arising from the Turmeric is not long of disappearing in the air."
+
+
+_QUERCITRON._
+
+Quercitron is the inner bark of the _Quercus nigra_ or _Q. tinctoria_,
+a species of oak growing in the United States and Central America. It
+was first introduced into England by Bancroft in 1775 as a cheap
+substitute for weld. He says, "The wool should be boiled for the space
+of 1 or 1Â¼ hours with one sixth or one eighth of its weight of alum;
+then without being rinsed, it should be put into a dyeing vessel with
+clean water and also as many pounds of powdered bark (tied up in a
+bag) as there were used of alum to prepare the wool, which is to be
+then turned in the boiling liquor until the colour appears to have
+taken sufficiently: and then about 1Â lb. clean powdered chalk for
+every 100Â lbs. of wool may be mixed with the dyeing liquor and the
+operation continued 8 or 10 minutes longer, when the yellow will have
+become both lighter and brighter by this addition of chalk."
+
+QUERCITRON FOR SILK. _Bancroft._
+
+1 to 2Â lbs. of bark to every 12Â lbs. silk according to shade required.
+The bark, tied up in a bag, should be put into the dyeing vessel
+whilst the water is cold, as soon as it gets warm the silk, previously
+alumed, should also be put in and dyed as usual. A little chalk should
+be added towards the end of the operation. A little murio sulphate of
+tin is used where more lively shades of yellow are wanted.
+
+Boil at the rate of 4Â lbs. bark to every 3Â lbs. of alum & 2Â lbs. murio
+sulphate of tin with a suitable quantity of water, for 10 to 15
+minutes. Reduce the heat so that the hand can bear it, put in the silk
+and dye till it has acquired the shade. By adding suitable proportions
+of sulphate of indigo to this yellow liquor and keeping it well
+stirred, various and beautiful shades of Saxon green may be dyed.
+
+By dissolving different proportions of copperas or copperas and alum
+in the warm decoction of bark, silk may in the same way be dyed of all
+the different shades of olive and drab colours\.
+
+
+FOR COTTON AND LINEN. Soak the yarn in a liquor made by dissolving Â¼
+of its weight of alum in the necessary water, to which it will be
+highly advantageous to add at the rate of 1Â lb. potash or 10 oz. chalk
+for every 6 or 7Â lbs. alum. The yarn is taken out and dried well:
+being afterwards rinsed, it is to be dyed in cold liquor made by
+boiling 1Â¼Â lbs. of the plant for eachÂ lb. of yarn, which, after having
+received a sufficient body of colour, is to be taken out of the dyeing
+liquor and soaked for an hour and more in a solution of sulphate of
+copper (blue vitriol) containing at the rate of 3 or 4 oz. for every
+pound of yarn: it is then removed without being washed, put into a
+boiling solution of hard soap, containing 3 or 4 oz. soap for each
+pound of yarn. Stir well and boil for about Â¾ hour or more. Then wash
+and dry.
+
+And again, take a sufficient quantity of acetate of alumina. This is
+made by dissolving 3Â lbs. alum in a gallon of hot water, then adding 1
+lb. sugar of lead, stirring well for 2 or 3 days, afterwards adding
+about 2 oz. potash and 2 oz. powdered chalk, (carbonate of lime), mix
+with warm water and soak linen or cotton well in this for 2 hours,
+keeping warm; squeeze out, dry; soak again in mordant, squeeze; dry;
+soak in lime water, dry; this mordanting and liming can be repeated if
+a fast yellow is required: it should then be well washed. 12 to 18
+lbs. of Quercitron bark, for every 100Â lbs. cotton or linen, is tied
+up in a bag and put in cold water, and slightly heated. The cotton is
+put in, stirring for an hour to an hour and a half while the water
+gets warm: then the liquor is heated to boiling point and the cotton
+boiled a few minutes only. Slow raising to boiling point gives the
+best colour. Instead of using acetate of alumina, the cotton can be
+impregnated with some astringent such as galls or myrobalans (1Â lb. in
+2 or 3 gallons of water with a little soda). Macerate the cotton an
+hour or two in this and dry, then a solution of alum (8Â lbs. alum, 1
+lb. chalk, in 6 gallons of water) soak cotton 2 hours, and dry, then
+soak in lime water and dry. Second time in alum and dry. Then wash and
+dye slowly in the Quercitron. This is a lasting yellow for cotton or
+linen.
+
+
+_OTHER YELLOW DYES._
+
+     "Root of the dock, bark of the Ash tree, leaves of the
+     almond, peach and pear trees, all give good yellow dyes,
+     more or less fine according to the time they are boiled
+     and in proportion to the Tartar and alum used. A proper
+     quantity of alum brings these yellows to the beautiful
+     yellows of the weld. If the Tartar is in greater quantity,
+     these yellows will border on the orange, if too much
+     boiled they take brown shades." From a dyeing book, 1778.
+
+_BARBERRY._ The roots and bark of _Berberis Vulgaris_, used
+principally for silk dyeing, without a mordant. The silk is worked at
+50Â° to 60Â°C. in a solution of the dye wood slightly acidified with
+sulphuric, acetic or tartaric acid. For dark shades, mordant with
+stannous chloride.
+
+_DYERS BROOM._ _Genista tinctoria._ The plant grows on waste ground.
+It should be picked in June or July & dried. It can be used with an
+alum and tartar mordant and gives a good bright yellow. It is called
+greening weed and used to be much used for greening blue wool.
+
+_PRIVET LEAVES_, _Ligustrum vulgare_, dye a good fast yellow with alum
+and tartar.
+
+_HEATHER._ Most of the heathers make a yellow dye, but the one chiefly
+used is the Ling, _Calluna vulgaris_. The tips are gathered just
+before flowering. They are boiled in water for about half an hour. The
+wool, previously mordanted with alum, is put into the dye bath with
+the liquor, which has been strained. It is then covered up closely and
+left till the morning. Or the wool can be boiled in the heather liquor
+till the desired colour is obtained\.
+
+
+RECIPES:--1). YELLOW FOR WOOL. For 6Â¼Â lbs. mordant with 5 oz. alum for
+1 hour and wash. Boil up 8 oz. heather twigs, leaves and flowers.
+Enter the wool and boil for 1 hour. Wash in cold water & dry.
+
+2). GOLDEN YELLOW FOR WOOL. For 6Â¼Â lbs. mordant with 3 oz. bichromate
+of potash for Â¾ hour. Wash in cold water. Dye with 50 oz. heather and
+boil for 45 minutes.
+
+
+
+
+CHAPTER IX.
+
+BROWN AND BLACK.
+
+CATECHU. ALDER BARK. SUMACH. WALNUT. PEAT SOOT. LOGWOOD, AND OTHER DYES
+
+
+_CATECHU._
+
+Catechu, (Cutch) is an old Indian dye for cotton. It can be used for
+wool, and gives a fine rich brown. It is obtained from the wood of
+various species of Areca, Acacia, and Mimosa trees. Bombay Catechu is
+considered the best for dyeing purposes.
+
+Catechu is soluble in boiling water. It is largely used by the cotton
+dyer for brown, olive, drab, grey, and black. The ordinary method of
+dyeing cutch brown on cotton is to steep the cotton in a hot solution
+of catechu, containing a small addition of copper sulphate, and leave
+it in the solution for several hours. To 7 or 8 gallons of water put 1
+lb. catechu and boil till all is dissolved, then add 1 to 2 ozs. of
+sulphate of copper and stir. It is then put into a boiling chrome bath
+(3%) for Â½ hour. For deep shades the dyeing and chroming operations
+are repeated. With alum mordanted cotton, the colour is a yellowish
+brown, with tin it becomes still yellower. With iron it is brownish or
+greenish grey. When catechu only is used, a darker shade of brown is
+got by adding to the catechu 6% of its weight of copper sulphate.
+When mordants are used, they may be applied before or after the chrome
+bath, the cotton being worked in their cold solution.
+
+1). CATECHU BROWN FOR COTTON. (10Â lbs.) Work the cotton at a boiling
+heat for 2 hours, or steep for several hours in a cool liquid, in 2
+lbs. catechu. (To each 7 or 8 gallons of water put 1Â lb. of catechu,
+and boil till all is dissolved, then add 2 oz. sulphate of copper and
+stir). Wring out and then work for Â½ hour in a hot solution of chrome,
+6 oz. Wash in hot water. If soap is added the colour is improved. Any
+depth of colour can be got by repeating the operations.
+
+2). BROWN FOR COTTON. Soak cotton in warm water. Boil for Â½ hour in a
+solution of catechu, in the proportion of 1 oz. of catechu to 5 oz. of
+cotton. Put it into a 3% solution of chrome for Â½ hour and boil. Then
+repeat these two operations till the colour is obtained. Then boil in
+a bath of Fustic.
+
+3). BROWN FOR COTTON. (100Â lbs.) Boil 20Â lbs. catechu in water:
+dissolve in the liquid 10Â lbs. alum and let it settle: enter the yarn
+into the hot liquid and after working well take out and enter into a
+fresh bath of boiling water with 4Â lbs. of chrome. Rinse and soften
+with oil and soap.
+
+4). CREAM COLOUR FOR COTTON WITH CATECHU. (11Â lbs). Boil out Â¾ oz. of
+catechu in water, and dissolve 2Â lbs. 3 oz. curd soap in the clear
+liquid. Enter the cotton at 190Â° F. and work for an hour.
+
+5). CATECHU FAST BROWN. (50Â lbs.) Steep yarn over-night in a decoction
+of 10Â lbs. cutch. Lift & work in a hot solution of chrome, rinse &
+dry.
+
+6). LIGHT FAST CATECHU BROWN FOR COTTON. (50Â lbs.) Boil 20Â lbs.
+catechu in one boiler and 5Â lbs. chrome in another. Enter in the
+catechu bath first, work 20 minutes, and wring out: then through the
+chrome 10 minutes, and wring out. Through catechu again, then chrome.
+Repeat this till dark enough, finishing with catechu.
+
+7). LIGHT CATECHU BROWN FOR COTTON. (20Â lbs). 3Â lbs. of catechu and 3
+oz. copper sulphate, boil up, and put into a bath of warm water. Enter
+cotton and work for Â½ hour; wring out. In another bath of hot water
+dissolve 8 oz. of chrome. Enter cotton when boiling, and work for
+Â½Â hour. Then wash.
+
+8). CATECHU BLACK FOR COTTON. Work the cotton in a hot decoction of
+catechu, allowing it to steep in the bath till cold, then work it in a
+cold solution of iron. Wash, and dye in a cold or tepid bath of
+logwood, and finally pass through a solution of chrome.
+
+9). CATECHU BROWN FOR WOOL. The wool is boiled for 1 to 1Â½ hours, with
+10 to 20% catechu, then sadden with 2 to 4% of copper sulphate,
+ferrous sulphate, or chrome, at 80Â° to 100Â°C., in a separate bath for
+Â½ hour.
+
+10). CATECHU STONE DRAB. (10Â lbs. cotton). Work the cotton for Â¼ hour
+with 2 pints catechu (1Â lb. catechu to 7 or 8 gallons water; boil and
+add 2 oz. copper sulphate) in hot water, lift and add 2 oz. copperas
+in solution. Work for Â¼ hour and wash. Add 2 oz. logwood to a bath of
+warm water & work cotton in this for 10 minutes. Lift and add Â½ oz.
+alum. Work 10 minutes; wring out and dry.
+
+
+_ALDER BARK_
+
+The bark and twigs of alder are used for dyeing brown and black. For 1
+lb. wool use 1Â lb. alder bark. Boil the wool with it for 2 hours, when
+it should be a dull reddish brown. Add Â½ oz. copperas for every pound
+of wool for black.
+
+
+_SUMACH_
+
+Sumach is the ground up leaves and twigs of the _Rhus coriaria_
+growing in Southern Europe. It dyes wool a yellow and a yellow brown,
+but it is chiefly used in cotton dyeing.
+
+
+_WALNUT_
+
+The green shells of the walnut fruit and the root are used for dyeing
+brown. The husks are collected when the fruit is ripe, put into a cask
+and covered with water. In this way they can be kept for a year or
+more; it is said the longer they are kept the better colour they give.
+Without a mordant the colour is quite fast, but if the wool is
+mordanted with alum a brighter and richer colour is got. When used
+they are boiled in water for Â¼ hour, then the wool is entered and
+boiled till the colour is obtained. Long boiling is not good as it
+makes the wool harsh. It is much used as a "saddening" agent; that is
+for darkening other colours. William Morris says:--
+
+     "The best and most enduring blacks were done with this
+     simple dye stuff, the goods being first dyed in the indigo
+     or woad vat till they were a very dark blue, and then
+     browned into black by means of the walnut root."
+
+            *       *       *       *       *
+
+     "Of all the ingredients used for the brown dye, the walnut
+     rind is the best. Its shades are finer, its colour is
+     lasting, it softens the wool, renders it of a better
+     quality, and easier to work. To make use of this rind, a
+     copper is half filled, and when it begins to grow
+     luke-warm, the rind is added in proportion to the
+     quantities of stuffs to be dyed and the colour intended.
+     The copper is then made to boil, and when it has boiled a
+     quarter-of-an-hour, the stuffs which were before dipped in
+     warm water, are put in. They are to be stirred and turned
+     until they acquire the desired colour."--James Haigh,
+     1797.
+
+
+_PEAT SOOT_ gives a good shade of brown to wool. Boil the wool for 1
+to 2 hours with peat soot. Careful washing is required in several
+changes of water. It is used sometimes for producing a hazel colour,
+after the wool has been dyed with weld and madder.
+
+
+_OAK BARK._ Mordant with alum and dye in a decoction of oak bark.
+
+
+_ONION SKINS._ (Brown.) Mordant the wool with alum and a little
+cayenne pepper. Boil it up lightly and keep warm for 6 days. Drying 2
+or 3 times in between makes the colour more durable. Dry. Boil a
+quantity of onion skins, and cool; then put in wool and boil lightly
+for half-an-hour to an hour; then keep warm for a while. Wring out and
+wash.
+
+
+_MADDER for BROWN._ (For 2Â½Â lbs. wool). Mordant with 2 oz. copperas
+and 2 oz. cream of tartar. Dye with madder.
+
+
+_MADDER, ETC., for FRENCH BROWN._ (For 50Â lbs. wool.) Mordant with
+1Â½Â lbs. chrome. Dye with 6Â lbs. Fustic, 1Â lb. madder, Â½Â lb. cudbear,
+1 lb. Tartar. If not dark enough add 8 oz. logwood. Boil for Â½ hour.
+Wash and dry.
+
+
+_FOR BLACK THREAD._ (From an old Dutch book on Dyeing. 1583). "Take a
+quantity of broken or bruised galls and boil them in water in a small
+pot and when they have a little boiled, take out all the galls and put
+into the same pot so much Copperas as ye had of galles and put
+therewith a little gumme of Arabic and then give it again another
+boiling. So let it boil a little, and with the said dye ye shall
+colour therein your thread, then take it forth and ye shall see it a
+fair shining black."
+
+
+_TAN SHADE._ (for 6Â¼Â lbs. wool). Mordant with 3 oz. Chrome for 45
+minutes and wash in cold water. Boil for Â½ hour, in a bag, 5 oz.
+madder, 4 oz. Fustic, Â½ oz. logwood. Enter the wool, raise to the
+boil, and boil for 45 minutes. By altering the proportions of madder &
+fustic various shades of brown can be got.
+
+
+_A GOOD BLACK_ for cotton, (20Â lbs.) to stand milling and scouring.
+Steep all night with 6Â lbs. of Sumach, pass through lime liquor and
+sadden with copperas; repeat in each of the last 2 tubs, adding more
+lime and copperas to each. Pass through logwood and wash. Soften with
+a little oil and soda ash.
+
+
+_A GOOD BLACK_ for cotton, (20Â lbs.) In a tub of cold water add 5Â lbs.
+sumach, give a few turns and let it steep in it all night; then in
+another tub of cold water add a few pails of lime water, wring out; in
+another tub add 2Â lbs. dissolved copperas and a pailful of old Sumach
+liquor. Enter, give 6 turns, wring out. In lime tub put two pails more
+lime liquor. Scald 2Â lbs. logwood, 1Â lb. Fustic in water; enter
+cotton, give 10 turns, sadden with a little copperas in the same
+liquor. Soften with a little oil and soda ash.
+
+
+_BLACK FOR LINEN AND COTTON._ The yarn is first of all scoured in the
+ordinary way, galled, alumed, and then turned through a bath of weld.
+It is then dyed in a decoction of logwood to which one fourth part of
+sulphate of copper must be added for one part of yarn. It is then
+washed. It is dyed in a bath made with one part of madder for two of
+yarn. The yarn is then turned through a bath of boiling soap water,
+washed and dried.
+
+
+_DOESKIN BLACK._ (For 100Â lbs. wool.) Camwood 8%. Boil for 50
+minutes. Then add Chrome 3%, Alum 1%, Argol 1%. Boil for 50
+minutes, take out of dye and allow to stand overnight. Dye in 45%
+logwood, 8% Fustic, 4% Sumac. Boil for 1Â½ hours, wash and dry. A
+fast permanent colour.
+
+
+_GREEN BLACK FOR WOOL._ Mordant with 2% Chrome and 25% Sulphuric
+acid. Boil 1Â½ hours; and leave over-night. Dye with 40% logwood, and
+10% Fustic. Boil 1 hour. Wash.
+
+
+_BROWNISH BLACK FOR WOOL._ (For 1Â lb.) Mordant with 3 per cent.
+Chrome. Dye with 2 oz. Fustic, 2 oz. logwood, 1 oz. madder, and 1 oz.
+copperas.
+
+
+_BROWN FOR WOOL._ Mordant 2Â½ hours with alum; dye with pine needles
+(larch) collected in Autumn when they drop.
+
+
+"_BLACK_ is obtained from the whole plant of _Spirea Ulmaria_, but
+especially the root. It is gathered then dried in the sun, and a
+strong decoction made by boiling for some hours, (a large handful to 3
+pints of water). After it has boiled slowly for 2 to 3 hours, stale
+urine is added to supply the loss by evaporation. Then set aside to
+cool. The cloth to be dyed, is rubbed strongly with bog iron ore,
+previously roughened and moistened with water. It is then rolled up
+and boiled in the decoction. This is of a brilliant black. A fine
+black is said to have been formerly obtained from the roots of
+_Angelica Sylvestris_."--(Edmonstone on the Native Dyes of the
+Shetland Islands, 1841.) William Morris says;
+
+     "[17]Black is best made by dyeing dark blue wool with
+     brown; and walnut is better than iron for the brown part,
+     because the iron-brown is apt to rot the fibre; as you
+     will see in some pieces of old tapestry, or old Persian
+     carpets, where the black is quite perished, or at least in
+     the case of the carpet--gone down to the knots. All
+     intermediate shades of flesh colour can be got by means of
+     weak baths of madder and walnut "saddening;" madder or
+     cochineal mixed with weld gives us orange, and with
+     saddening (walnut) all imaginable shades between yellow
+     and red, including the ambers, maize-colour, etc."
+
+     From a Dye Book of 1705.--"Black may be compared to Night
+     and Death, not only because all other colours are deepened
+     and buried in the Black Dye, but that as Death puts an end
+     to all Evils of Life, tis necessary that the Black Dye
+     should remedy the faults of other colours, which have been
+     occasioned by the deficiency of the Dyer or the Dye, or
+     the change of Fashion according to the times and caprice
+     of man."
+
+
+FOOTNOTE:
+
+[17]--For other recipes for Black, see Chapter VI on Logwood.
+
+
+
+
+CHAPTER X.
+
+GREEN
+
+
+Green results from the mixing of blue and yellow in varying
+proportions according to the shade of colour required. _Berthollet_
+says:--
+
+     "Many different plants are capable of affording green
+     colours; such as, the field broom grass, _Bromus
+     secalinus_; the green berries of the berry bearing alder,
+     _Rhamnus frangula_; wild chervil, _ChÃ¦rophyllum
+     silvestre_; purple clover, _Trifolium pratense_; common
+     reed, _Arundo phragmites_; but these colours have no
+     permanence."[18]
+
+     _Hellot_ says:--"It is impossible to obtain more than one
+     colour from a mixture of blue and yellow, which is green;
+     but this colour comprehends an infinite variety of shades,
+     the principal of which are the Yellow green, the Light
+     green, the Gay green, the Grass green, the Laurel green,
+     the Molequin green, the Deep green, the Sea green, the
+     Celadon green, the Parrot green, and, I shall add, the
+     Duck-wing green, and the Celadon green with Blue. All
+     these shades and the intermediate ones are made after the
+     same manner and with the same ease. The stuff or wool dyed
+     blue, light or dark, is boiled with Alum and Tartar, as is
+     usually done to make white stuff yellow, and then with
+     Weld, Savory, or Greening Wood. The Weld and the Savory
+     are the two plants that afford the finest greens."
+
+Another old Dye book says:--
+
+     "If you would dye your goods green, you must first dye
+     them yellow with Broom or Dyer's Weed, otherwise Yellow
+     Weed; after which put them into the Blue vat."
+
+Every dyer has his particular yellow weed with which he greens his
+blue dyed stuff. But the best greens are undoubtedly got from weld and
+fustic.
+
+The wool is dyed first in the blue vat; then washed and dried; then
+after mordanting dyed in the yellow bath. This method is not arbitrary
+as some dyers consider a better green is got by dyeing it yellow
+before the blue. But the first method produces the fastest and
+brightest greens as the aluming after the blue vat clears the wool of
+the loose particles of indigo and seems to fix the colour.
+
+If a bright yellow green is wanted, then mordant with alum after the
+indigo bath; if olive green, then mordant with chrome.
+
+The wool can be dyed blue for green in 3 different ways:--1st. in the
+indigo vat (see page 68 et seq.); 2nd. with Indigo Extract (see pages
+65-67); 3rd. with logwood, the wool having been previously mordanted
+with chrome (see p. 82, No. 7, and p. 85 No. 17). For a good bright
+green, dye the wool a rather light blue, then wash and dry; green it
+with a good yellow dye, such as weld or fustic, varying the proportion
+of each according to the shade of green required. Heather tips, dyer's
+broom, dock roots, poplar leaves, saw wort are also good yellows for
+dyeing green. If Indigo Extract is used for the blue, fustic is the
+best yellow for greening, its colour is less affected by the sulphuric
+acid than other yellows.
+
+_Bancroft_ gives many recipes for dyeing green with quercitron. He
+says:--
+
+     "Wool which has been first properly dyed blue in the
+     common indigo vat may be made to receive any of the
+     various shades of green which are usually given in this
+     way from weld, by boiling the blue wool (after it has been
+     well rinsed) in water, with about one eighth of its
+     weight in alum, and afterwards dyeing it unrinsed with
+     about the same quantity of Quercitron bark and a little
+     chalk which should be added towards the end of the
+     process.
+
+     In the same way cloth that has previously received the
+     proper shade of Saxon blue, may be dyed to a beautiful
+     Saxon green: it will be proper to add about 3Â lbs. chalk
+     with 10 to 12 pounds of alum for the preparation liquor
+     for 100Â lbs. weight of wool which is to be turned and
+     boiled as usual for about an hour, and then without
+     changing the liquor, 10 or 12Â lbs. of Quercitron bark,
+     powdered and tied up in a bag, may be put into it, and the
+     dyeing continued. When the dyeing has continued about 15
+     minutes, it will be proper to add anotherÂ lb. of powdered
+     chalk, stirring it well in, and to repeat this addition
+     once, twice or three times at intervals of 6 or 8 minutes.
+     The chalk does not merely answer the purpose of
+     decomposing the acid left in the wool by the sulphate of
+     indigo, but it helps to raise the colour and to render it
+     more durable."
+
+According to _Bancroft_, Quercitron is the yellow above all others for
+dyeing greens. He says:--
+
+     "The most beautiful Saxon greens may be produced very
+     cheaply and expeditiously by combining the lively yellow
+     which results from Quercitron bark, murio sulphate of tin
+     and alum, with the blue afforded by indigo when dissolved
+     in sulphuric acid, as for dyeing the Saxon blue".
+
+     For a full bodied green he says "6 or 8Â lbs. of powdered
+     bark should be put into a dyeing vessel for every hundred
+    Â lbs. wool with a similar quantity of water. When it
+     begins to boil, 6Â lbs. murio-sulphate of tin should be
+     added (with the usual precaution) and a few minutes
+     afterwards 4Â lbs. alum: these having boiled 5 or 6
+     minutes, cold water should be added, and then as much
+     sulphate of Indigo as needed for the shade of green to be
+     dyed, stirring thoroughly. The wool is then put into the
+     liquor and stirred briskly for about Â½ hour. It is best to
+     keep the water just at the boiling point."
+
+
+RECIPES FOR DYEING GREEN.
+
+1). BOTTLE GREEN FOR SILK WITH FUSTIC. (5Â lbs.) Dissolve 2Â lbs. alum
+and 1Â lb. copperas in water; work the silk in this for Â½ hour; wash in
+warm water. Work for Â½ an hour in a decoction of 6Â lbs. Fustic. Lift,
+and add 2 oz. Indigo Extract. Work 20 minutes. Wash and dry.
+
+2). GREEN FOR WOOL WITH FUSTIC. Â½Â lb. of wool is mordanted with â
+
+oz. chrome and â
+ oz. Cream of Tartar for Â½ an hour to 1 hour. Soak
+overnight in water, 3 oz. Fustic and 2Â½ oz. logwood, and boil for 2
+hours. Strain, and enter wool. Boil for 2 hours.
+
+3). GREEN FOR LINEN WITH LARCH BARK. Mordant 4Â lbs. linen with Â½Â lb.
+alum. Boil for 2Â½ hours; wring out but do not dry. Boil up a quantity
+of larch bark and boil linen in this for 2Â½ hours.
+
+4). FUSTIC GREEN FOR WOOL. (50Â lbs.) Mordant wool with 11Â lbs. alum.
+Soak 50Â lbs. Fustic over-night, and boil up. Enter the wool and boil
+for half-an-hour or more. Add Extract of Indigo in small quantities at
+a time, till the desired colour is got.
+
+5). SAXON GREEN FOR WOOL. Mordant the wool with alum and tartar for
+half-an-hour; it is then taken out and aired, but not washed. The bath
+is refreshed with cold water, and half the amount of the solution of
+Indigo which is to be used is well mixed in. The wool is entered and
+rapidly stirred for 5 or 6 minutes, without boiling. It is taken out
+and the rest of the Indigo solution is well mixed in. The wool is put
+in and boiled for ten minutes; then taken out and cooled. The bath is
+then three-quarters emptied and filled up with a decoction of fustic.
+When the bath is very hot, the wool is put in until the desired shade
+of green is got.
+
+6). GREEN WITH QUERCITRON FOR WOOL. Dye the wool blue in the Indigo
+vat. Wash well. For 100 parts of wool, put 3 parts of chalk and 10 or
+12 of alum. Boil the wool in this for 1 hour. Then to the same bath,
+add 10 or 12 parts of Quercitron, and continue the boiling for Â¼ hour.
+Then add 1 part of chalk, and this addition is repeated at intervals
+of 6 to 8 minutes till a fine green colour is brought out.
+
+7). GREEN WITH QUERCITRON FOR COTTON. First, the cotton is dyed a sky
+blue colour by means of indigo dissolved by potash and orpiment; then
+it is passed through a strong decoction of sumach, in which it is left
+until well cooled. It is then dried, passed through the mordant of
+acetate of alumina, dried again, washed, worked for 2 hours in tepid
+bath of Quercitron, (26Â¼Â lbs. to 110Â lbs. cotton).
+
+8). GREEN WITH INDIGO EXTRACT & WELD FOR WOOL. Mordant 1Â lb. wool with
+4 oz. alum and Â½ oz. cream of tartar. Dye blue with sufficient
+quantity of Indigo Extract. Wash and dry. Prepare a dye bath with weld
+which has been previously chopped up and boiled. Enter wool and boil
+for half-an-hour or more.
+
+
+FOOTNOTE:
+
+[18] Note page 42 on British plants which dye green.
+
+
+
+
+APPENDIX
+
+LICHENS USED FOR DYEING WOOL BROWN.
+
+_Continued from page 62_
+
+
+_S. scrobiculata._ Aik-raw, Oak rag. Found on trees in Scotland and
+England.
+
+_Gyrophora deusta._ Scorched looking gyrophora. Found on rocks in
+Scandinavia. LinnÃ¦us states that it furnishes a paint called "Tousch,"
+much used in Sweden.
+
+_G. cylindrica._ Cylindrical gyrophora. On rocks in Iceland. Greenish
+brown. Also G. deusta.
+
+_Alectoria jubata._ Horse hair lichen, Rock hair. On fir trees in
+England, pale greenish brown.
+
+_Parmelia parietina._ Common yellow wall lichen, WÃ¤g-mÃ¤ssa, Wag-laf.
+England and Sweden on trees, rocks, walls, palings. Used to dye Easter
+eggs. Used in Sweden for wool dyeing.
+
+_Cetraria juniperina._ En-mossa. On trees in Scandinavia.
+
+_Borrera flavicans._ Yellow borrera. On trees in Germany, gamboge
+yellow.
+
+_Lecanora candelaria._ Ljus mÃ¤ssa. On trees in Sweden.
+
+_Evernia flavicans._ Wolf's-bane evernia. On trees in Scandinavia,
+gamboge yellow.
+
+_Lecidea atro-virens._ Map lichen. On rocks in Scandinavia.
+
+_Lepraria chlorina._ Brimstone coloured lepraria. Scandinavia, on
+rocks.
+
+_L. Iolithus._ Viol-mÃ¤ssa. Sweden, on stones. Gives to stones the
+appearance of blood stains.
+
+
+
+
+BIBLIOGRAPHY
+
+
+Prof. G. Henslow. Uses of British Plants.
+
+Dr. Plowright. British Dye Plants. (Journal of the Royal Horticultural
+Society, Vol. 26. 1901.)
+
+Sowerby. Useful Plants of Great Britain.
+
+Sowerby. English Botany.
+
+Professor G. S. Boulger. The Uses of Plants. 1889.
+
+Alfred Edge. Some British Dye Lichens. (Journal of the Society of
+Dyers and Colourists. May 1914).
+
+J. J. Hummel. The Dyeing of Textile Fabrics.
+
+Clement Bolton. A Manual of Wool Dyeing. 1913.
+
+W. Crooks. Dyeing and Tissue Printing. 1882.
+
+Rawson, Gardiner and Laycock. A Dictionary of Dyes, Mordants, 1901.
+
+James Haigh. The Dyer's Assistant. 1778.
+
+James Napier. A Manual of Dyeing Receipts. 1855.
+
+James Napier. A Manual of the Art of Dyeing. 1853.
+
+A Profitable Boke. (On Dyeing). Translated from the Dutch. 1583.
+
+Darwin and Meldola. Woad. ("Nature", Nov. 12, 1896).
+
+Mrs. Anstruther Mackay. Simple Home Dyeing.
+
+English EncyclopÃ¦dia. Dyeing. 1802.
+
+Gardiner D. Hiscock. 20th Century Book of Recipes, Formulas and
+Processes. 1907.
+
+F. J. Bird. The Dyer's Hand Book. 1875.
+
+Hurst. Silk Dyeing and Printing. (Technological Hand Book. 1892).
+
+Smith. Practical Dyers' Guide. 1849.
+
+T. Sims. Dyeing and Bleaching. (British Manufacturing Industries.
+1877.)
+
+David Smith. The Dyers' Instructor. 1857.
+
+The Dyer and Colour Maker's Companion. 1859.
+
+Thomas Love. The Practical Dyer and Scourer. 1854.
+
+Knecht, Rawson and Lowenthal. A Manual of Dyeing. 1893.
+
+Berthollet. The Art of Dyeing. 1824.
+
+George Jarmain. On Wool Dyeing. 6 Lectures. 1876.
+
+Hellot, Macquer, M. le Pilleur D'Apligny. The Art of Dyeing Wool, Silk
+and Cotton. (Translated from the French, 1789. New Edition, 1901.)
+
+The Art of Dyeing. (Translated from the German. 1705. Reprint 1913.)
+
+R. P. Milroy. Handbook on Dyeing for Woollen Homespun Workers.
+(Congested Districts Board for Ireland).
+
+Dr. W. L. Lindsay. On the Dyeing Properties of Lichens. (Edinburgh New
+Philosophical Journal, 1855).
+
+T. Edmonston. "On the Native Dyes of the Shetland Islands."
+(Transactions of Botanical Society of Edinburgh, Vol. I. 1841).
+
+Edward Bancroft. The Philosophy of Permanent Colours. 1794.
+
+Francheville. On Ancient and Modern Dyes, 1767. (Royal Academy of
+Sciences, Berlin).
+
+Parnell's Applied Chemistry.--Article on Dyeing.
+
+William Morris. "Of Dyeing as an Art." (Essays by Members of the Arts
+and Crafts Exhibition Society, 1903).
+
+William Morris. "The Lesser Arts of Life." (From Architecture,
+Industry and Wealth. 1902).
+
+Brewster's Edinburgh ncyclopÃ¦dia. 1830. Dyeing.
+
+Sansome. "Dyeing." 1888.
+
+John M. Thomson. The Practical Dyer's Assistant. 1849.
+
+
+
+
+GLOSSARY AND INDEX.
+
+
+A.--_Adjective dyes_, 24. Dyes which require a mordant.
+
+_Alder bark_, 43, 44, 100, 126.
+
+_Alizarin._ The chief colouring principle of madder. It is also the
+name for an extensive series of chemical colours produced from
+anthracene, one of the coal tar hydrocarbons, discvrd., 1868.
+
+_Alkaline ley_, 28.
+
+_Almond_, 120.
+
+_Amber_, 132.
+
+_Alum_, 26-29.
+
+_Aluminium sulphate_, 26.
+
+_Aniline_, 3. Discovered, 1826 (_aÃ±il, Span. indigo_). First prepared
+from indigo by means of caustic potash. Found in coal in 1834.
+Manufactured on a large scale after Perkin's discovery of mauve in
+1856.
+
+_Anatta_, (Anotto, Arnotto, Roucou), 111. A dye obtained from the pulp
+surrounding the seeds of the _Bixa orellana_; chiefly used in dyeing
+silk an orange colour, but is of a fugitive nature.
+
+_Archil_, 52, 53, 54.
+
+_Argol_, 131. The tartar deposited from wines completely fermented, and
+adhering to the sides of casks as a hard crust. When purified it
+becomes Cream of Tartar.
+
+_Ash_, 41, 120.
+
+_Astringents_, 19, 26.
+
+
+B.--_Barberry_, 41, 120.
+
+_Barwood_, 67, 106.
+
+_Beck._--A large vessel or tub used in dyeing.
+
+_Bichromate of Potash_, 32.
+
+_Birch_, 38, 42, 43, 99, 103.
+
+_Black_, 122-123; from logwood, 79-85.
+
+_Black Dye Plants_, 44.
+
+_Blue_, 63; from Indigo, 66-75; from lichen, 61; from logwood, 79-85.
+
+_Blue black_, 81.
+
+_Blue Dye Plants_, 39.
+
+_Blue stone_, 33.
+
+_Blue vitriol_, 33-36.
+
+_Bois de CampÃªche_, 77.
+
+_Bois jaune_, Fustic, yellow wood.
+
+_Brazil woods_, 106.
+
+_British Dye Plants_, 37-44.
+
+_Broom_, 41, 134.
+
+_Brown_, 122-133; from lichens, 45-49, 51, 56, 57, 60-62, 140; from
+madder, 102, 106; from weld, 112; from woad, 76.
+
+_Brown Dye Plants_, 43.
+
+_Buff_, 115.
+
+
+C.--_Campeachy Wood_, 77.
+
+_Camwood_, 106, 131.
+
+_Carthamus._ Safflower, an annual plant cultivated in S. Europe, Egypt
+and Asia for the red dye from its flowers.
+
+_Catechu_, 33, 35, 36, 122-6.
+
+_Caustic Soda._ Carbonate of soda, boiled with lime.
+
+_Chestnut_, 35.
+
+_Chrome_, 32, 33.
+
+_Cinnamon_, 102.
+
+_Claret_, 51, 84.
+
+_Coal Tar Colours._ Colours obtained by distillation and chemical
+treatment from coal tar, a product of coal during the making of gas.
+There are over 2,000 colours in use.
+
+_Cochineal_, 92-7, 132.
+
+_Copper_, 33-5.
+
+_Copper sulphate_, 33.
+
+_Copperas_, 29, 30, 129.
+
+_Corcur_, 51.
+
+_Cotton_, 18; the dyeing of, 19; without mordant, 21; method in India,
+19, 20; the mordanting of, 26.
+
+_Cream_, from catechu, 124.
+
+_Cream of Tartar_, 28-32, 34. See argol.
+
+_Crimson_, 94-96, 106; from lichens, 49, 60.
+
+_Crottle_, 46, 56-60, 62.
+
+_Cudbear_, 45, 52, 54, 55, 57, 58, 67, 85, 129.
+
+
+D.--_Detergent_, 15. A cleansing agent.
+
+_Dip._ Generally applied to immersing cloth etc. in the blue vat.
+
+_Divi-divi_, 35, 36. The dried pods of _CÃ¦salpina coriaria_, growing
+in the West Indies and S. America. They contain 20 to 35% tannin and
+a brown colouring matter.
+
+_Dock_, 40, 44, 50, 69, 120, 135.
+
+_Drab_, 80, 118, 126.
+
+_Dyer's Broom_, 40, 121, 135.
+
+_Dyer's Spirit_, 32. Aqua fortis, 10 parts; Sal Ammoniac, 5 parts;
+Tin, 2 parts; dissolved together.
+
+_Dyer's Weed_, 40, 134.
+
+
+E.--_Enter._ To enter wool, to put it into the dye or mordant liquor.
+
+_Extract of Indigo_, 65-69.
+
+
+F.--_Felting_, to prevent, 15.
+
+_Fenugrec_, Fenugreek, 107. _Trigonnella fÅnugrÃ¦cum._
+
+_Ferrous sulphate_, 29.
+
+_Flavin._ A colouring matter extracted from quercitron.
+
+_Fleece_, various kinds of, 13.
+
+_Flesh colour_, 132.
+
+_Full, to._ To tread or beat cloth for the purpose of cleansing and
+thickening it.
+
+_Fuller's Herb._ _Saponaria officinalis._ A plant used in the process of
+fulling.
+
+_Fuller's Thistle_ or Teasle. _Dipsacus fullonum._ Used for fulling
+cloth.
+
+_Fustet._ Young fustic. Venetian Sumach. _Rhus cotinus._ It gives a
+fine orange colour, which has not much permanence.
+
+_Fustic_, 113-116, 130, 131, 135.
+
+
+G.--_Galls_, _Gall nuts_, 26, 129. Oak galls produced by the egg of an
+insect,--the female gall wasp. An excrescence is produced round the
+egg, & the insect, when developed, pierces a hole & escapes. Those
+gall nuts which are not pierced contain most tannic acid. The best
+come from Aleppo and Turkey.
+
+_Gramme_ or _Gram_. About 15Â½ grains (Troy).
+
+_Green_, 133-9; with fustic, 137-8; with weld, 139.
+
+_Green Dye Plants_, 42.
+
+_Green Vitriol_, 29.
+
+_Green wood_, 107, 108, 134.
+
+_Greening weed_, 121.
+
+_Grey_, 67, 79; from logwood, 80, 85.
+
+
+H.--_Hazel colour_, 128.
+
+_Heather_, 40, 85, 121, 135.
+
+
+I.--_Iceland moss_, 51, 61.
+
+_Indigo_, 63-75, 135-139.
+
+_Indigo Extract_, 64-70; for green, 135-139.
+
+_Iron_, 29-30.
+
+
+K.--_Kermes_, 87-91.
+
+_Kilo. Kilogramme._ Equals 2Â lbs. 3Â·2 oz.
+
+_Korkalett_, 50.
+
+
+L.--_Lac_, 97, 98.
+
+_Larch_, 43, 131, 137.
+
+_Lavender_, 84.
+
+_Lesser Dye_, 77, 79.
+
+_Ley_, see lye.
+
+_Lichen_, 45-62, 140.
+
+_Lilac_, 95, 96, 97.
+
+_Lima Wood_, 106, 107.
+
+_Linen_, 21; to bleach, 22; the mordanting of, 26; various kinds of,
+21.
+
+_Litre_, 80. Nearly 1Â¾ pints.
+
+_Lixiviation._ The process of separating a soluble substance from an
+insoluble by the percolation of water.
+
+_Lixivium._ (Lye). A term often used in old dye books. Water
+impregnated with alkaline salts extracted by lixiviation from wood
+ashes.
+
+_Logwood_, 77, 130, 131, 137.
+
+_Lye_ or _Ley_. Any strong alkaline solution, especially one used for
+the purpose of washing, such as soda lye, soap lye.
+
+
+M.--_Madder_, 38, 98-105, 132.
+
+_Magenta_, 44.
+
+_Maize_, 132.
+
+_Mercerised Cotton._ Cotton prepared by treating with a solution of
+caustic potash or soda or certain other chemicals. Discovered by John
+Mercer in 1844.
+
+_Milling._ The operation of fulling cloth.
+
+_Mordants_, 24; general remarks on, 34; primitive mordants, 25.
+
+_Muriate of Tin_, 31.
+
+_Myrobalans_, 26, 35, 36. The fruit of several species of trees,
+growing in China & the East Indies, containing tannic acid, (25-40%
+tannin).
+
+
+O.--_Oak bark_, 128.
+
+_Oak galls_, 35, 36.
+
+_Oil of Vitriol_, 64, 65, 67. Sulphuric acid.
+
+_Old Fustic_, see Fustic.
+
+_Old Gold_, 109, 112-114.
+
+_Olive_, 109, 113, 118, 135.
+
+_Onion skins_, 128.
+
+_Orange_, 91, 93, 102, 106, 109, 120, 132; from lichens, 48, 51, 58,
+60-2.
+
+_Orchil_, 45, 52-55.
+
+_Organzine._ Twisted raw silk from best cocoons, used for warp.
+
+_Orseille_, 58.
+
+_Oxalic Acid_, 30, 31.
+
+
+P.--_Pastel_, 77. Woad.
+
+_Peach_, 120.
+
+_Peach wood_, 106-107.
+
+_Pear_, 41, 120.
+
+_Pearl ash._ Carbonate of Potash.
+
+_Peat Soot_, 128.
+
+_Persian Berries._ The dried unripe fruit of various species of
+Rhamnus. Also called French berries, Grains of Avignon.
+
+_Philamort_, 48.
+
+_Pink_, 93; from lichen, 57.
+
+_Plum colour_, from lichen, 48.
+
+_Poplar_, 42, 135.
+
+_Potassium Carbonate._ (Potashes). Carbonate of Potash has been known
+since ancient times as a constituent of the ashes of land plants,
+from which it is obtained by extraction with water. In most cases
+Sodium Carbonate, which it strongly resembles, can be used in its
+place.
+
+_Potassium dichromate_, 32.
+
+_Privet_, 39, 41, 42, 121.
+
+_Purple_, from lichens, 53, 57-60, 62; with cochineal, 95, 96; with
+logwood, 82, 85, 86, 87.
+
+_Purple Dye Plants_, 43.
+
+
+Q.--_Quercitron_, 116-120; for green, 135-137.
+
+
+R.--_Red_, 87-107; from lichens, 48-51, 53, 56, 58, 60.
+
+_Red Dye Plants_, 38.
+
+_Red Spirits._ Tin spirits. Applied to tin mordants generally. A
+solution of Stannous chloride.
+
+_Red woods._ Camwood, Barwood, Sanderswood (Santal, Sandal, Red
+Sanders), Brazil wood, Sapan wood, Peach wood.
+
+_Retting_, 21.
+
+_Roucou._ Anatta, Arnotto.
+
+
+S.--_Sandalwood_ or Saunderswood, 106.
+
+_Sadden, to_, _saddening_, 14, 30, 34, 127, 130, 132. To darken or dull
+in colour.
+
+_Sapan wood_, 106.
+
+_Savory_, 107, 108.
+
+_Sawwort_, 41, 135.
+
+_Saxon blue_, 67, 70, 136. The dye made by Indigo dissolved in oil of
+vitriol.
+
+_Saxon green_, 118, 136, 138.
+
+_Scarlet_, 88, 91, 92, 93, 94, 95, 97, 98.
+
+_Scarlet of Grain_, 87.
+
+_Scotch ell._ 37Â·2 inches.
+
+_Scour, to._ To wash.
+
+_Scroop._ The rustling property of silk.
+
+_Scrottyie_, 49, 50, 59.
+
+_Silk_, 16-18; to alum, 18; general method of dyeing, 17; to mordant,
+26; the preparation of, 17; to soften, 18; various kinds of, 16; raw,
+16, 17; waste, 16.
+
+_Silver drab_, 84.
+
+_Sloe_, 39.
+
+_Soda ash._ Carbonate of soda.
+
+_Soda ley_, 101.
+
+_Sour water_, 28. To every gallon of water, add 1 gill vitriol; stir
+thoroughly. Stuff steeped in this should be covered with the liquor,
+otherwise it will rot.
+
+(2). Water in which bran has been made to grow sour. 24 bushels of
+bran are put in a tub, about 10 hogsheads of nearly boiling water is
+poured into it; acid fermentation soon begins, and in 24 hours it is
+ready to use.
+
+(3). Throw some handfuls of bran into hot water and let it stand for
+24 hours, or till the water becomes sour, when it is fit for use.
+
+_Stannous Chloride_, 31.
+
+_Staple_, 11, 12. A term applied to cotton and wool, indicating length
+of fibre.
+
+_Stuffing and Saddening_, 14, 30.
+
+_Substantive Dye_, 24, 52, 65, 116. A dye not requiring a mordant.
+
+_Sulphuric Acid_, 64, 66, 67, 70, 120, 131.
+
+_Sumach_, 26, 35, 36, 126. Leaves and twigs of several species of
+Rhus, containing Tannic acid. It is sold in the form of crushed leaves
+or as a powder, (15-20% tannin).
+
+
+T.--_Tannic Acid_, 26, 35.
+
+_Tannin_, 35, 36.
+
+_Tin_, 31, 32.
+
+_Tin crystals_, 31.
+
+_Tin salts_, 31.
+
+_Tram._ Slightly twisted raw silk, used for weft.
+
+_Turkey Red_, 99.
+
+_Turmeric_, 116.
+
+_Turquoise_, 69.
+
+_Tyrian purple._ A purple colour obtained from certain shell fish,
+such as Buccinum & Purpura. It is mentioned by Pliny as being
+discovered in 1400 B.C. It was a lost art in the middle ages.
+
+
+V.--_Valonia_, 35. Acorn cups of certain species of oak from S.
+Europe, containing 25-35% of tannic acid.
+
+_Vegetable alkali._ Potash.
+
+_Verdigris_, 33. Acetate of copper.
+
+_Violet_, 86, 94, 103.
+
+_Vitrum_, 76.
+
+
+W.--_Walnut_, 43, 127, 132.
+
+_Water_ for dyeing, 23.
+
+_Weld_, 107-112, 120, 130, 134, 135.
+
+_Wet out_, to. To damp, before putting the yarn or cloth into the dye.
+
+_Woad_, 39, 75-77.
+
+_Wool_, 11; to bleach, 16; to cleanse, 15, 16; long staple wool, 12;
+various kinds of, 11, 12, 13.
+
+_Wool Dyeing_, general methods, 13-16.
+
+
+Y.--_Yarn_, to soften, 16.
+
+_Yellow_, 107-122; from lichens, 51, 57, 140; from sumach, 126.
+
+_Yellow Dye Plants_, 39.
+
+_Yellow Weed_, 134.
+
+_Yellow Wood_, 107.
+
+
+
+
+ERRATA
+
+
+     page 59. Rock Urcolaria shld. be Rock Urceolaria.
+
+     page 61. Flowering lusnea shld. be Flowering Usnea.
+
+     page 144. (printed without being corrected).
+
+       Add:--_Alder bark_, 43, 44, 100, 126.
+
+       _Almond_, 120.
+
+       _Amber_, 132.
+
+       _Argol_, 131.
+
+       _Ash_, 41, 120.
+
+       _Barwood_, 67, 106.
+
+     Correct:--
+
+     authracene to anthracene
+
+     _anie_ to _aÃ±il_
+
+     Roucon to Roucou
+
+     sorrounding to surrounding
+
+
+_Printed by Douglas Pepler at Ditchling_
+
+
+
+
+[Illustration: A WOOD CUT ILLUSTRATION FROM THE DEVIL'S DEVICES (_see
+advert_.)]
+
+
+
+
+     BOOKS
+     Published by DOUGLAS PEPLER
+     AT THE
+     HAMPSHIRE HOUSE WORKSHOPS
+     HAMMERSMITH
+
+
+     COTTAGE ECONOMY BY WILLIAM
+     COBBETT with an INTRODUCTION
+     BY G. K. CHESTERSON
+     Price 2s. 6d. net (Postage 3d.)
+
+     A REPRINT of a STANDARD WORK
+     Which should be of use, in these days, to
+     Many beside Cottagers.
+
+
+     A CAROL AND OTHER RHYMES
+     By EDWARD JOHNSTON
+     Price 1s. net. (Postage 2d.)
+
+
+     A BOOK ON VEGETABLE DYES
+     By ETHEL M. MAIRET
+     Price 5s. net (Postage 4d.)
+
+
+
+
+THE DEVIL'S DEVICES or Control versus Service by DOUGLAS PEPLER, with
+Wood-cut Illustrations by Eric Gill. Price 2s. 6d. net. The first 200
+copies will be numbered and signed. Price 3s. 6d. net.
+
+This book contains an account of a cinematograph entertainment in
+Satan's Circuit; a crafty devil; and an appreciation of No. 27, an
+English working-man.
+
+
+_THE REVIEWERS ON THE DEVIL'S DEVICES._
+
+WHAT WILL THEY SAY NEXT?
+
+But we believe that the effect upon most people will be what it
+certainly is upon one reader, who is NOT IN THE LEAST SHOCKED, but is
+considerably
+
+     BORED.
+
+     --_C. O. Review._
+
+A verse may find him who a sermon flies, and there is likely to be
+here and there one, who seeing in a bookseller's window the red cover
+and the black, the very black, cart thereon, will incontinently
+purchase.
+
+     --_The New Witness._
+
+His arguments are closely logical when he chooses to make them so,
+though their sequence and arrangement are bewilderingly haphazard.
+
+     --_The Herald._
+
+The whole effect is of a hotch-potch composed in a lunatic asylum; and
+the pictures seem madder than the letterpress.... Much to the
+irritation of my wife, for supper was waiting, I read on till I had
+read the book right through.... The "mad" author of this book is
+Douglas Pepler, the "mad" artist is Eric Gill. When I say "mad" I am,
+for the moment, taking it for granted that the world is sane.--
+
+     _Labour Leader._
+
+       *       *       *       *       *
+
+(and so on very nicely for several columns.)--
+
+     _Land and Water._
+
+The drama is skilfully unfolded (though the author fails over the
+spelling of Nietzsche, page 29) and interspersed with wood-cuts ...
+and a still more excellent account of the passing of the poor man's
+parlour.
+
+     _The Cambridge Magazine._
+
+The author has marked with the toe of his boot the moral weakness on
+which the Devil depends for his power over the modern world.--
+
+     _Red Feather._
+
+Mr. Pepler perpetually _DROPS_ into dialogue with
+
+     FATAL
+     RESULTS.
+
+     _New Age._
+
+
+
+
+
+End of Project Gutenberg's A Book on Vegetable Dyes, by Ethel Mairet
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A BOOK ON VEGETABLE DYES ***
+
+***** This file should be named 50079-8.txt or 50079-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/0/7/50079/
+
+Produced by Melissa McDaniel and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
